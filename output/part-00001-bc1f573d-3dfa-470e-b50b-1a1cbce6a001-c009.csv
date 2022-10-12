@@ -1,0 +1,500 @@
+2014,Level 3,KK11,Finance,Dollars (millions),H23,Surplus before income tax,Financial performance,"23,511","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H24,Total assets,Financial position,"922,560","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H25,Current assets,Financial position,"256,617","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H26,Fixed tangible assets,Financial position,"15,483","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H27,Additions to fixed assets,Financial position,"3,840","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H28,Disposals of fixed assets,Financial position,"1,526","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H29,Other assets,Financial position,"650,459","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H30,Total equity and liabilities,Financial position,"922,560","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"205,928","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H32,Current liabilities,Financial position,"427,981","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars (millions),H33,Other liabilities,Financial position,"288,650","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars,H34,Total income per employee count,Financial ratios,"1,652,400","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Dollars,H35,Surplus per employee count,Financial ratios,"690,200","ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Percentage,H36,Current ratio,Financial ratios,60,"ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Percentage,H37,Quick ratio,Financial ratios,60,"ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Percentage,H39,Return on equity,Financial ratios,11,"ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Percentage,H40,Return on total assets,Financial ratios,3,"ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 3,KK11,Finance,Percentage,H41,Liabilities structure,Financial ratios,22,"ANZSIC06 groups K621, K622, K623, and K624"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H01,Total income,Financial performance,"30,848","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H04,Sales of goods and services,Financial performance,"2,915","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"26,898","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H07,Non-operating income,Financial performance,"1,035","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H08,Total expenditure,Financial performance,"23,693","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H09,Interest and donations,Financial performance,"16,953","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H10,Indirect taxes,Financial performance,C,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H11,Depreciation,Financial performance,404,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,559","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H13,Redundancy and severance,Financial performance,33,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,C,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,904","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H20,Non-operating expenses,Financial performance,819,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H21,Opening stocks,Financial performance,5,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H22,Closing stocks,Financial performance,6,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H23,Surplus before income tax,Financial performance,"7,156","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H24,Total assets,Financial position,"590,213","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H25,Current assets,Financial position,"181,472","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H26,Fixed tangible assets,Financial position,973,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H27,Additions to fixed assets,Financial position,366,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H28,Disposals of fixed assets,Financial position,99,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H29,Other assets,Financial position,"407,767","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H30,Total equity and liabilities,Financial position,"590,213","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"44,972","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H32,Current liabilities,Financial position,"345,053","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars (millions),H33,Other liabilities,Financial position,"200,187","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars,H34,Total income per employee count,Financial ratios,"1,017,800","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Dollars,H35,Surplus per employee count,Financial ratios,"236,100","ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Percentage,H36,Current ratio,Financial ratios,53,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Percentage,H37,Quick ratio,Financial ratios,53,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Percentage,H39,Return on equity,Financial ratios,16,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Percentage,H40,Return on total assets,Financial ratios,1,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK111,Banking and Financing,Percentage,H41,Liabilities structure,Financial ratios,8,"ANZSIC06 groups K621, K622, and K623"
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H01,Total income,Financial performance,"25,438",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H04,Sales of goods and services,Financial performance,"2,060",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"17,253",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,6,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H07,Non-operating income,Financial performance,"6,119",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H08,Total expenditure,Financial performance,"9,084",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H09,Interest and donations,Financial performance,"5,068",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H10,Indirect taxes,Financial performance,C,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H11,Depreciation,Financial performance,101,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H12,Salaries and wages paid,Financial performance,373,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,C,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,797",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H20,Non-operating expenses,Financial performance,"1,684",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H21,Opening stocks,Financial performance,73,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H22,Closing stocks,Financial performance,74,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H23,Surplus before income tax,Financial performance,"16,355",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H24,Total assets,Financial position,"332,347",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H25,Current assets,Financial position,"75,145",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H26,Fixed tangible assets,Financial position,"14,510",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H27,Additions to fixed assets,Financial position,"3,474",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H28,Disposals of fixed assets,Financial position,"1,427",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H29,Other assets,Financial position,"242,692",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H30,Total equity and liabilities,Financial position,"332,347",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"160,956",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H32,Current liabilities,Financial position,"82,928",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars (millions),H33,Other liabilities,Financial position,"88,463",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars,H34,Total income per employee count,Financial ratios,"6,774,700",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Dollars,H35,Surplus per employee count,Financial ratios,"4,355,700",ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Percentage,H36,Current ratio,Financial ratios,91,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Percentage,H37,Quick ratio,Financial ratios,91,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Percentage,H39,Return on equity,Financial ratios,10,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Percentage,H40,Return on total assets,Financial ratios,5,ANZSIC06 group K624
+2014,Level 4,KK112,Financial Asset Investing,Percentage,H41,Liabilities structure,Financial ratios,48,ANZSIC06 group K624
+2014,Level 3,KK12,Insurance,Dollars (millions),H01,Total income,Financial performance,"9,174",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H04,Sales of goods and services,Financial performance,"7,494",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,751,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H07,Non-operating income,Financial performance,929,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H08,Total expenditure,Financial performance,"8,148",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H09,Interest and donations,Financial performance,14,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H10,Indirect taxes,Financial performance,13,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H11,Depreciation,Financial performance,58,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H12,Salaries and wages paid,Financial performance,799,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H13,Redundancy and severance,Financial performance,8,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,502,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"6,217",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H20,Non-operating expenses,Financial performance,546,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H21,Opening stocks,Financial performance,0,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H22,Closing stocks,Financial performance,0,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,025",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H24,Total assets,Financial position,"32,511",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H30,Total equity and liabilities,Financial position,"32,511",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"7,746",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars,H34,Total income per employee count,Financial ratios,"1,031,300",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Dollars,H35,Surplus per employee count,Financial ratios,"115,300",ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Percentage,H39,Return on equity,Financial ratios,13,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Percentage,H40,Return on total assets,Financial ratios,3,ANZSIC06 groups K631 and K632
+2014,Level 3,KK12,Insurance,Percentage,H41,Liabilities structure,Financial ratios,24,ANZSIC06 groups K631 and K632
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H01,Total income,Financial performance,"3,282",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H04,Sales of goods and services,Financial performance,"2,146",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,389,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H07,Non-operating income,Financial performance,746,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H08,Total expenditure,Financial performance,"2,702",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H10,Indirect taxes,Financial performance,C,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H11,Depreciation,Financial performance,13,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H12,Salaries and wages paid,Financial performance,98,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,306,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,840",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H20,Non-operating expenses,Financial performance,443,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H21,Opening stocks,Financial performance,0,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H22,Closing stocks,Financial performance,0,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H23,Surplus before income tax,Financial performance,580,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H24,Total assets,Financial position,"12,860",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H30,Total equity and liabilities,Financial position,"12,860",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"3,755",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars,H34,Total income per employee count,Financial ratios,"3,487,900",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Dollars,H35,Surplus per employee count,Financial ratios,"616,100",ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Percentage,H39,Return on equity,Financial ratios,15,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Percentage,H40,Return on total assets,Financial ratios,5,ANZSIC06 group K631
+2014,Level 4,KK121,Life Insurance,Percentage,H41,Liabilities structure,Financial ratios,29,ANZSIC06 group K631
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H01,Total income,Financial performance,"5,892",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H04,Sales of goods and services,Financial performance,"5,348",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,362,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H07,Non-operating income,Financial performance,182,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H08,Total expenditure,Financial performance,"5,446",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H10,Indirect taxes,Financial performance,C,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H11,Depreciation,Financial performance,45,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H12,Salaries and wages paid,Financial performance,700,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,197,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"4,377",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H20,Non-operating expenses,Financial performance,104,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H21,Opening stocks,Financial performance,0,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H22,Closing stocks,Financial performance,0,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H23,Surplus before income tax,Financial performance,446,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H24,Total assets,Financial position,"19,651",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H30,Total equity and liabilities,Financial position,"19,651",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"3,991",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars,H34,Total income per employee count,Financial ratios,"740,800",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Dollars,H35,Surplus per employee count,Financial ratios,"56,000",ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Percentage,H39,Return on equity,Financial ratios,11,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Percentage,H40,Return on total assets,Financial ratios,2,ANZSIC06 group K632
+2014,Level 4,KK122,Health and General Insurance,Percentage,H41,Liabilities structure,Financial ratios,20,ANZSIC06 group K632
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H01,Total income,Financial performance,"4,944",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"4,127",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,586,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,9,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H07,Non-operating income,Financial performance,223,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H08,Total expenditure,Financial performance,"3,719",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H09,Interest and donations,Financial performance,187,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H10,Indirect taxes,Financial performance,14,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H11,Depreciation,Financial performance,95,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,439",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H13,Redundancy and severance,Financial performance,7,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,24,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,884",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H20,Non-operating expenses,Financial performance,76,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H21,Opening stocks,Financial performance,31,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H22,Closing stocks,Financial performance,30,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,225",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H24,Total assets,Financial position,"11,090",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"11,090",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,775",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars,H34,Total income per employee count,Financial ratios,"340,000",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars,H35,Surplus per employee count,Financial ratios,"84,200",ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Percentage,H39,Return on equity,Financial ratios,26,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Percentage,H40,Return on total assets,Financial ratios,11,ANZSIC06 groups K641 and K642
+2014,Level 3,KK13,Auxiliary Finance and Insurance Services,Percentage,H41,Liabilities structure,Financial ratios,43,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H01,Total income,Financial performance,"4,944",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"4,127",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,586,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,9,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H07,Non-operating income,Financial performance,223,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H08,Total expenditure,Financial performance,"3,719",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H09,Interest and donations,Financial performance,187,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H10,Indirect taxes,Financial performance,14,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H11,Depreciation,Financial performance,95,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,439",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H13,Redundancy and severance,Financial performance,7,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,24,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,884",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H20,Non-operating expenses,Financial performance,76,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H21,Opening stocks,Financial performance,31,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H22,Closing stocks,Financial performance,30,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,225",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H24,Total assets,Financial position,"11,090",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"11,090",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,775",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars,H34,Total income per employee count,Financial ratios,"340,000",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars,H35,Surplus per employee count,Financial ratios,"84,200",ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Percentage,H39,Return on equity,Financial ratios,26,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Percentage,H40,Return on total assets,Financial ratios,11,ANZSIC06 groups K641 and K642
+2014,Level 4,KK131,Auxiliary Finance and Insurance Services,Percentage,H41,Liabilities structure,Financial ratios,43,ANZSIC06 groups K641 and K642
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H01,Total income,Financial performance,"23,795",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"20,734",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"1,086",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,34,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H07,Non-operating income,Financial performance,"1,941",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H08,Total expenditure,Financial performance,"16,142",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H09,Interest and donations,Financial performance,"3,518",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H10,Indirect taxes,Financial performance,571,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H11,Depreciation,Financial performance,"1,690",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,566",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,"1,016",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"7,230",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H20,Non-operating expenses,Financial performance,551,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H21,Opening stocks,Financial performance,"3,199",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H22,Closing stocks,Financial performance,"3,119",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"7,573",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H24,Total assets,Financial position,"184,568",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H25,Current assets,Financial position,"27,087",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"132,490",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H27,Additions to fixed assets,Financial position,"11,793",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,"7,300",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H29,Other assets,Financial position,"24,991",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"184,568",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"80,096",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H32,Current liabilities,Financial position,"33,931",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H33,Other liabilities,Financial position,"70,542",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars,H34,Total income per employee count,Financial ratios,"917,900",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars,H35,Surplus per employee count,Financial ratios,"292,100",ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H36,Current ratio,Financial ratios,80,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H37,Quick ratio,Financial ratios,71,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H39,Return on equity,Financial ratios,9,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division L
+2014,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H41,Liabilities structure,Financial ratios,43,ANZSIC06 division L
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H01,Total income,Financial performance,"4,445","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H04,Sales of goods and services,Financial performance,"3,983","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H05,"Interest, dividends and donations",Financial performance,301,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H07,Non-operating income,Financial performance,C,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H08,Total expenditure,Financial performance,"3,679","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H09,Interest and donations,Financial performance,361,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H10,Indirect taxes,Financial performance,33,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H11,Depreciation,Financial performance,836,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H12,Salaries and wages paid,Financial performance,603,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H13,Redundancy and severance,Financial performance,C,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,0,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,775","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H20,Non-operating expenses,Financial performance,72,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H21,Opening stocks,Financial performance,196,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H22,Closing stocks,Financial performance,282,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H23,Surplus before income tax,Financial performance,851,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H24,Total assets,Financial position,"17,134","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H25,Current assets,Financial position,"6,223","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H26,Fixed tangible assets,Financial position,"6,344","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H27,Additions to fixed assets,Financial position,"1,715","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H28,Disposals of fixed assets,Financial position,574,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H29,Other assets,Financial position,"4,566","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H30,Total equity and liabilities,Financial position,"17,134","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"6,775","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H32,Current liabilities,Financial position,"3,873","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H33,Other liabilities,Financial position,"6,486","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars,H34,Total income per employee count,Financial ratios,"385,200","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars,H35,Surplus per employee count,Financial ratios,"73,800","ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H36,Current ratio,Financial ratios,161,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H37,Quick ratio,Financial ratios,153,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H39,Return on equity,Financial ratios,13,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H40,Return on total assets,Financial ratios,5,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H41,Liabilities structure,Financial ratios,40,"ANZSIC06 groups L661, L662, L663, and L664"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H01,Total income,Financial performance,"3,682","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H04,Sales of goods and services,Financial performance,"3,301","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H05,"Interest, dividends and donations",Financial performance,251,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H07,Non-operating income,Financial performance,131,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H08,Total expenditure,Financial performance,"3,211","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H09,Interest and donations,Financial performance,310,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H10,Indirect taxes,Financial performance,32,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H11,Depreciation,Financial performance,813,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H12,Salaries and wages paid,Financial performance,500,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H13,Redundancy and severance,Financial performance,C,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,0,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,496","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H20,Non-operating expenses,Financial performance,61,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H21,Opening stocks,Financial performance,188,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H22,Closing stocks,Financial performance,270,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H23,Surplus before income tax,Financial performance,554,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H24,Total assets,Financial position,"13,557","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H25,Current assets,Financial position,"5,033","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H26,Fixed tangible assets,Financial position,"6,000","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H27,Additions to fixed assets,Financial position,"1,641","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H28,Disposals of fixed assets,Financial position,539,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H29,Other assets,Financial position,"2,524","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H30,Total equity and liabilities,Financial position,"13,557","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,882","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H32,Current liabilities,Financial position,"3,265","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H33,Other liabilities,Financial position,"5,410","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars,H34,Total income per employee count,Financial ratios,"358,500","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars,H35,Surplus per employee count,Financial ratios,"53,900","ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H36,Current ratio,Financial ratios,154,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H37,Quick ratio,Financial ratios,146,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H39,Return on equity,Financial ratios,11,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H40,Return on total assets,Financial ratios,4,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H41,Liabilities structure,Financial ratios,36,"ANZSIC06 groups L661, L662, and L663"
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H01,Total income,Financial performance,763,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H04,Sales of goods and services,Financial performance,682,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,50,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H08,Total expenditure,Financial performance,468,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H09,Interest and donations,Financial performance,51,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H10,Indirect taxes,Financial performance,2,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H11,Depreciation,Financial performance,23,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H12,Salaries and wages paid,Financial performance,103,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,0,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,279,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H20,Non-operating expenses,Financial performance,11,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H21,Opening stocks,Financial performance,8,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H22,Closing stocks,Financial performance,12,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H23,Surplus before income tax,Financial performance,297,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H24,Total assets,Financial position,"3,577",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H25,Current assets,Financial position,"1,190",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H26,Fixed tangible assets,Financial position,344,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H27,Additions to fixed assets,Financial position,74,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H28,Disposals of fixed assets,Financial position,35,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H29,Other assets,Financial position,"2,042",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H30,Total equity and liabilities,Financial position,"3,577",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,892",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H32,Current liabilities,Financial position,608,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H33,Other liabilities,Financial position,"1,076",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars,H34,Total income per employee count,Financial ratios,"601,000",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Dollars,H35,Surplus per employee count,Financial ratios,"234,400",ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H36,Current ratio,Financial ratios,196,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H37,Quick ratio,Financial ratios,194,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H39,Return on equity,Financial ratios,16,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 group L664
+2014,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H41,Liabilities structure,Financial ratios,53,ANZSIC06 group L664
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H01,Total income,Financial performance,"19,351","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"16,751","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,785,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H07,Non-operating income,Financial performance,C,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H08,Total expenditure,Financial performance,"12,463","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H09,Interest and donations,Financial performance,"3,157","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H10,Indirect taxes,Financial performance,538,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H11,Depreciation,Financial performance,854,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,964,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H13,Redundancy and severance,Financial performance,1,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,"1,016","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"5,456","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H20,Non-operating expenses,Financial performance,479,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H21,Opening stocks,Financial performance,"3,003","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H22,Closing stocks,Financial performance,"2,837","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"6,722","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H24,Total assets,Financial position,"167,435","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H25,Current assets,Financial position,"20,864","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"126,146","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H27,Additions to fixed assets,Financial position,"10,078","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,"6,726","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H29,Other assets,Financial position,"20,425","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"167,435","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"73,321","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H32,Current liabilities,Financial position,"30,058","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H33,Other liabilities,Financial position,"64,056","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars,H34,Total income per employee count,Financial ratios,"1,345,200","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Dollars,H35,Surplus per employee count,Financial ratios,"467,300","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H36,Current ratio,Financial ratios,69,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H37,Quick ratio,Financial ratios,60,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H39,Return on equity,Financial ratios,9,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H40,Return on total assets,Financial ratios,4,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H41,Liabilities structure,Financial ratios,44,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H01,Total income,Financial performance,"16,022",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H04,Sales of goods and services,Financial performance,"13,516",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,751,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H08,Total expenditure,Financial performance,"9,729",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H09,Interest and donations,Financial performance,"3,116",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H10,Indirect taxes,Financial performance,524,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H11,Depreciation,Financial performance,797,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H12,Salaries and wages paid,Financial performance,418,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,0,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"4,424",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H20,Non-operating expenses,Financial performance,450,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H21,Opening stocks,Financial performance,"2,990",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H22,Closing stocks,Financial performance,"2,823",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H23,Surplus before income tax,Financial performance,"6,126",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H24,Total assets,Financial position,"164,664",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H25,Current assets,Financial position,"19,909",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H26,Fixed tangible assets,Financial position,"124,985",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H27,Additions to fixed assets,Financial position,"9,821",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H28,Disposals of fixed assets,Financial position,"6,591",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H29,Other assets,Financial position,"19,770",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H30,Total equity and liabilities,Financial position,"164,664",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"71,873",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H32,Current liabilities,Financial position,"29,293",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars (millions),H33,Other liabilities,Financial position,"63,498",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars,H34,Total income per employee count,Financial ratios,"3,109,400",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Dollars,H35,Surplus per employee count,Financial ratios,"1,188,900",ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Percentage,H36,Current ratio,Financial ratios,68,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Percentage,H37,Quick ratio,Financial ratios,58,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Percentage,H39,Return on equity,Financial ratios,9,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 class L671200
+2014,Level 4,LL122,Non-Residential Property Operation,Percentage,H41,Liabilities structure,Financial ratios,44,ANZSIC06 class L671200
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H01,Total income,Financial performance,"3,328",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"3,236",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,34,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H07,Non-operating income,Financial performance,59,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H08,Total expenditure,Financial performance,"2,734",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H09,Interest and donations,Financial performance,41,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H10,Indirect taxes,Financial performance,14,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H11,Depreciation,Financial performance,57,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,546,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,"1,016",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,032",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H20,Non-operating expenses,Financial performance,29,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H21,Opening stocks,Financial performance,12,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H22,Closing stocks,Financial performance,14,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H23,Surplus before income tax,Financial performance,596,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H24,Total assets,Financial position,"2,771",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H25,Current assets,Financial position,955,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,161",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H27,Additions to fixed assets,Financial position,258,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,135,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H29,Other assets,Financial position,655,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"2,771",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,448",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H32,Current liabilities,Financial position,765,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars (millions),H33,Other liabilities,Financial position,558,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars,H34,Total income per employee count,Financial ratios,"360,500",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Dollars,H35,Surplus per employee count,Financial ratios,"64,500",ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Percentage,H36,Current ratio,Financial ratios,125,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Percentage,H37,Quick ratio,Financial ratios,123,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Percentage,H39,Return on equity,Financial ratios,41,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Percentage,H40,Return on total assets,Financial ratios,22,ANZSIC06 group L672
+2014,Level 4,LL123,Real Estate Services,Percentage,H41,Liabilities structure,Financial ratios,52,ANZSIC06 group L672
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H01,Total income,Financial performance,"39,733",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"36,928",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"2,079",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,261,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H07,Non-operating income,Financial performance,466,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H08,Total expenditure,Financial performance,"34,391",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H09,Interest and donations,Financial performance,953,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H10,Indirect taxes,Financial performance,103,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H11,Depreciation,Financial performance,839,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"14,006",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H13,Redundancy and severance,Financial performance,21,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"17,842",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H20,Non-operating expenses,Financial performance,648,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H21,Opening stocks,Financial performance,576,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H22,Closing stocks,Financial performance,670,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"5,436",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H24,Total assets,Financial position,"61,178",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H25,Current assets,Financial position,"28,689",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"6,055",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H27,Additions to fixed assets,Financial position,"1,778",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,722,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H29,Other assets,Financial position,"26,434",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"61,178",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"23,806",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H32,Current liabilities,Financial position,"25,085",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H33,Other liabilities,Financial position,"12,287",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars,H34,Total income per employee count,Financial ratios,"177,300",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars,H35,Surplus per employee count,Financial ratios,"24,300",ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H36,Current ratio,Financial ratios,114,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H37,Quick ratio,Financial ratios,112,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H39,Return on equity,Financial ratios,23,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 divisions M and N
+2014,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H41,Liabilities structure,Financial ratios,39,ANZSIC06 divisions M and N
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H01,Total income,Financial performance,"31,265",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"28,788",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"1,874",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,218,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H07,Non-operating income,Financial performance,385,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H08,Total expenditure,Financial performance,"26,526",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H09,Interest and donations,Financial performance,842,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H10,Indirect taxes,Financial performance,81,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H11,Depreciation,Financial performance,652,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"10,811",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H13,Redundancy and severance,Financial performance,15,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"13,686",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H20,Non-operating expenses,Financial performance,455,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H21,Opening stocks,Financial performance,479,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H22,Closing stocks,Financial performance,561,ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"4,822",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H24,Total assets,Financial position,"54,044",ANZSIC06 division M
+2014,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H25,Current assets,Financial position,"25,460",ANZSIC06 division M

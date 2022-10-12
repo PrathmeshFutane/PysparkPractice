@@ -1,0 +1,500 @@
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H12,Salaries and wages paid,Financial performance,240,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,79,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,369,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H20,Non-operating expenses,Financial performance,9,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H21,Opening stocks,Financial performance,59,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H22,Closing stocks,Financial performance,75,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H23,Surplus before income tax,Financial performance,261,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H24,Total assets,Financial position,"1,859",ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H25,Current assets,Financial position,740,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H26,Fixed tangible assets,Financial position,C,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H27,Additions to fixed assets,Financial position,35,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H28,Disposals of fixed assets,Financial position,32,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H29,Other assets,Financial position,C,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H30,Total equity and liabilities,Financial position,"1,859",ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,081",ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H32,Current liabilities,Financial position,523,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H33,Other liabilities,Financial position,255,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars,H34,Total income per employee count,Financial ratios,"317,900",ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Dollars,H35,Surplus per employee count,Financial ratios,"82,900",ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Percentage,H36,Current ratio,Financial ratios,141,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Percentage,H37,Quick ratio,Financial ratios,127,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Percentage,H38,Margin on sales of goods for resale,Financial ratios,20,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Percentage,H39,Return on equity,Financial ratios,24,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Percentage,H40,Return on total assets,Financial ratios,14,ANZSIC06 Group F380
+2018,Level 4,FF116,Commission Based Wholesaling,Percentage,H41,Liabilities structure,Financial ratios,58,ANZSIC06 Group F380
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H01,Total income,Financial performance,"104,593",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"93,440",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H03,Sales of other goods and services,Financial performance,"10,395",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,399,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,15,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H07,Non-operating income,Financial performance,345,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H08,Total expenditure,Financial performance,"101,071",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H09,Interest and donations,Financial performance,491,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H10,Indirect taxes,Financial performance,301,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H11,Depreciation,Financial performance,831,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H12,Salaries and wages paid,Financial performance,"7,861",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H13,Redundancy and severance,Financial performance,21,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"76,904",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"14,219",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H20,Non-operating expenses,Financial performance,464,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H21,Opening stocks,Financial performance,"11,599",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H22,Closing stocks,Financial performance,"12,771",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H23,Surplus before income tax,Financial performance,"4,694",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H24,Total assets,Financial position,"50,816",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H25,Current assets,Financial position,"35,915",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H26,Fixed tangible assets,Financial position,"6,213",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H27,Additions to fixed assets,Financial position,"1,560",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H28,Disposals of fixed assets,Financial position,651,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H29,Other assets,Financial position,"8,689",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H30,Total equity and liabilities,Financial position,"50,816",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"19,436",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H32,Current liabilities,Financial position,"24,808",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars (millions),H33,Other liabilities,Financial position,"6,571",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars,H34,Total income per employee count,Financial ratios,"933,500",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Dollars,H35,Surplus per employee count,Financial ratios,"41,900",ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Percentage,H36,Current ratio,Financial ratios,145,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Percentage,H37,Quick ratio,Financial ratios,93,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Percentage,H38,Margin on sales of goods for resale,Financial ratios,18,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Percentage,H39,Return on equity,Financial ratios,24,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 division F
+2018,Level 1,FF,Wholesale Trade,Percentage,H41,Liabilities structure,Financial ratios,38,ANZSIC06 division F
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H01,Total income,Financial performance,"18,783","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"18,037","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H03,Sales of other goods and services,Financial performance,706,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,23,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H07,Non-operating income,Financial performance,17,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H08,Total expenditure,Financial performance,"18,462","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H09,Interest and donations,Financial performance,100,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H10,Indirect taxes,Financial performance,40,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H11,Depreciation,Financial performance,115,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,385","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"15,600","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,186","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H20,Non-operating expenses,Financial performance,36,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H21,Opening stocks,Financial performance,"1,999","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H22,Closing stocks,Financial performance,"2,182","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H23,Surplus before income tax,Financial performance,504,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H24,Total assets,Financial position,"5,518","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H25,Current assets,Financial position,"3,742","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,013","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H27,Additions to fixed assets,Financial position,257,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H28,Disposals of fixed assets,Financial position,99,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H29,Other assets,Financial position,763,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H30,Total equity and liabilities,Financial position,"5,518","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,923","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H32,Current liabilities,Financial position,"2,690","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H33,Other liabilities,Financial position,905,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars,H34,Total income per employee count,Financial ratios,"666,500","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars,H35,Surplus per employee count,Financial ratios,"17,900","ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H36,Current ratio,Financial ratios,139,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H37,Quick ratio,Financial ratios,58,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,14,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H39,Return on equity,Financial ratios,26,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H40,Return on total assets,Financial ratios,9,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H41,Liabilities structure,Financial ratios,35,"ANZSIC06 groups G391, G392, and G400"
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H01,Total income,Financial performance,"23,269",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,"22,500",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H03,Sales of other goods and services,Financial performance,690,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,49,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H07,Non-operating income,Financial performance,29,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H08,Total expenditure,Financial performance,"22,435",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H09,Interest and donations,Financial performance,67,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H10,Indirect taxes,Financial performance,40,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H11,Depreciation,Financial performance,263,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,274",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"17,923",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,838",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H20,Non-operating expenses,Financial performance,30,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H21,Opening stocks,Financial performance,"1,072",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H22,Closing stocks,Financial performance,"1,121",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H23,Surplus before income tax,Financial performance,883,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H24,Total assets,Financial position,"7,496",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H25,Current assets,Financial position,"3,260",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H26,Fixed tangible assets,Financial position,"2,243",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H27,Additions to fixed assets,Financial position,446,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H28,Disposals of fixed assets,Financial position,124,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H29,Other assets,Financial position,"1,994",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H30,Total equity and liabilities,Financial position,"7,496",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,629",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H32,Current liabilities,Financial position,"3,640",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H33,Other liabilities,Financial position,"1,227",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars,H34,Total income per employee count,Financial ratios,"338,500",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars,H35,Surplus per employee count,Financial ratios,"12,800",ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H36,Current ratio,Financial ratios,90,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H37,Quick ratio,Financial ratios,59,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,20,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H39,Return on equity,Financial ratios,34,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H40,Return on total assets,Financial ratios,12,ANZSIC06 groups G411 and G412
+2018,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H41,Liabilities structure,Financial ratios,35,ANZSIC06 groups G411 and G412
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H01,Total income,Financial performance,"13,914","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,"13,441","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H03,Sales of other goods and services,Financial performance,379,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,43,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H07,Non-operating income,Financial performance,51,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H08,Total expenditure,Financial performance,"13,276","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H09,Interest and donations,Financial performance,51,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H10,Indirect taxes,Financial performance,41,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H11,Depreciation,Financial performance,134,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,834","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H13,Redundancy and severance,Financial performance,2,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"9,532","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,635","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H20,Non-operating expenses,Financial performance,49,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H21,Opening stocks,Financial performance,"1,741","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H22,Closing stocks,Financial performance,"1,835","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H23,Surplus before income tax,Financial performance,732,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H24,Total assets,Financial position,"5,655","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H25,Current assets,Financial position,"3,923","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H26,Fixed tangible assets,Financial position,921,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H27,Additions to fixed assets,Financial position,217,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H28,Disposals of fixed assets,Financial position,84,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H29,Other assets,Financial position,810,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H30,Total equity and liabilities,Financial position,"5,655","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,806","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H32,Current liabilities,Financial position,"2,876","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H33,Other liabilities,Financial position,973,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars,H34,Total income per employee count,Financial ratios,"370,400","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars,H35,Surplus per employee count,Financial ratios,"19,500","ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H36,Current ratio,Financial ratios,136,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H37,Quick ratio,Financial ratios,73,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,29,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H39,Return on equity,Financial ratios,41,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H40,Return on total assets,Financial ratios,13,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H41,Liabilities structure,Financial ratios,32,"ANZSIC06 groups G421, G422, and G423"
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H01,Total income,Financial performance,"6,227",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,"5,936",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H03,Sales of other goods and services,Financial performance,233,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,32,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H07,Non-operating income,Financial performance,26,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H08,Total expenditure,Financial performance,"5,917",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H09,Interest and donations,Financial performance,70,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H10,Indirect taxes,Financial performance,20,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H11,Depreciation,Financial performance,108,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,034",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"3,106",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,496",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H20,Non-operating expenses,Financial performance,82,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H21,Opening stocks,Financial performance,"1,306",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H22,Closing stocks,Financial performance,"1,305",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H23,Surplus before income tax,Financial performance,309,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H24,Total assets,Financial position,"4,102",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H25,Current assets,Financial position,"2,389",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H26,Fixed tangible assets,Financial position,656,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H27,Additions to fixed assets,Financial position,190,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H28,Disposals of fixed assets,Financial position,84,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H29,Other assets,Financial position,"1,058",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H30,Total equity and liabilities,Financial position,"4,102",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,193",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H32,Current liabilities,Financial position,"2,117",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H33,Other liabilities,Financial position,792,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars,H34,Total income per employee count,Financial ratios,"202,000",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars,H35,Surplus per employee count,Financial ratios,"10,000",ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H36,Current ratio,Financial ratios,113,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H37,Quick ratio,Financial ratios,51,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,48,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H39,Return on equity,Financial ratios,26,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 groups G424 and G425
+2018,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H41,Liabilities structure,Financial ratios,29,ANZSIC06 groups G424 and G425
+2018,Level 4,GH133,Department Stores,Dollars (millions),H01,Total income,Financial performance,"4,837",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"4,806",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H03,Sales of other goods and services,Financial performance,21,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,9,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H07,Non-operating income,Financial performance,1,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H08,Total expenditure,Financial performance,"4,645",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H10,Indirect taxes,Financial performance,25,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H11,Depreciation,Financial performance,76,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H12,Salaries and wages paid,Financial performance,786,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"3,021",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,708,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H20,Non-operating expenses,Financial performance,C,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H21,Opening stocks,Financial performance,745,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H22,Closing stocks,Financial performance,761,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H23,Surplus before income tax,Financial performance,208,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H24,Total assets,Financial position,"2,374",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H25,Current assets,Financial position,"1,433",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H26,Fixed tangible assets,Financial position,478,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H27,Additions to fixed assets,Financial position,100,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H28,Disposals of fixed assets,Financial position,31,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H29,Other assets,Financial position,463,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H30,Total equity and liabilities,Financial position,"2,374",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,266",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H32,Current liabilities,Financial position,750,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars (millions),H33,Other liabilities,Financial position,358,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars,H34,Total income per employee count,Financial ratios,"247,800",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Dollars,H35,Surplus per employee count,Financial ratios,"10,600",ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Percentage,H36,Current ratio,Financial ratios,191,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Percentage,H37,Quick ratio,Financial ratios,90,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Percentage,H38,Margin on sales of goods for resale,Financial ratios,37,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Percentage,H39,Return on equity,Financial ratios,16,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 group G426
+2018,Level 4,GH133,Department Stores,Percentage,H41,Liabilities structure,Financial ratios,53,ANZSIC06 group G426
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H01,Total income,Financial performance,"5,717",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"4,974",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H03,Sales of other goods and services,Financial performance,710,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,20,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H07,Non-operating income,Financial performance,12,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H08,Total expenditure,Financial performance,"5,458",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H10,Indirect taxes,Financial performance,17,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H11,Depreciation,Financial performance,85,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H12,Salaries and wages paid,Financial performance,940,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"2,912",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,435",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H20,Non-operating expenses,Financial performance,C,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H21,Opening stocks,Financial performance,675,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H22,Closing stocks,Financial performance,709,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H23,Surplus before income tax,Financial performance,293,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H24,Total assets,Financial position,"3,034",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H25,Current assets,Financial position,"1,725",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H26,Fixed tangible assets,Financial position,611,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H27,Additions to fixed assets,Financial position,183,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H28,Disposals of fixed assets,Financial position,59,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H29,Other assets,Financial position,698,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H30,Total equity and liabilities,Financial position,"3,034",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,845,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H32,Current liabilities,Financial position,"1,370",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H33,Other liabilities,Financial position,818,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars,H34,Total income per employee count,Financial ratios,"226,100",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars,H35,Surplus per employee count,Financial ratios,"11,600",ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Percentage,H36,Current ratio,Financial ratios,126,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Percentage,H37,Quick ratio,Financial ratios,74,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,41,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Percentage,H39,Return on equity,Financial ratios,35,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 group G427
+2018,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Percentage,H41,Liabilities structure,Financial ratios,28,ANZSIC06 group G427
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H01,Total income,Financial performance,"1,659",ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"1,473",ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H03,Sales of other goods and services,Financial performance,180,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,3,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H07,Non-operating income,Financial performance,3,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H08,Total expenditure,Financial performance,"1,626",ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H09,Interest and donations,Financial performance,16,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H10,Indirect taxes,Financial performance,2,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H11,Depreciation,Financial performance,25,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H12,Salaries and wages paid,Financial performance,228,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,987,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,359,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H20,Non-operating expenses,Financial performance,9,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H21,Opening stocks,Financial performance,144,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H22,Closing stocks,Financial performance,168,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H23,Surplus before income tax,Financial performance,58,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H24,Total assets,Financial position,858,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H25,Current assets,Financial position,539,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H26,Fixed tangible assets,Financial position,198,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H27,Additions to fixed assets,Financial position,64,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H28,Disposals of fixed assets,Financial position,21,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H29,Other assets,Financial position,120,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H30,Total equity and liabilities,Financial position,858,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,274,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H32,Current liabilities,Financial position,376,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars (millions),H33,Other liabilities,Financial position,209,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars,H34,Total income per employee count,Financial ratios,"428,100",ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Dollars,H35,Surplus per employee count,Financial ratios,"14,900",ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Percentage,H36,Current ratio,Financial ratios,144,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Percentage,H37,Quick ratio,Financial ratios,99,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,33,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Percentage,H39,Return on equity,Financial ratios,21,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 groups G431 and G432
+2018,Level 4,GH135,Non-Store and Commission Based Retailing,Percentage,H41,Liabilities structure,Financial ratios,32,ANZSIC06 groups G431 and G432
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H01,Total income,Financial performance,"32,354","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"30,629","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"1,523","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,106,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H07,Non-operating income,Financial performance,94,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H08,Total expenditure,Financial performance,"30,922","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H09,Interest and donations,Financial performance,191,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H10,Indirect taxes,Financial performance,106,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H11,Depreciation,Financial performance,429,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"4,822","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H13,Redundancy and severance,Financial performance,5,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"19,558","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"5,633","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H20,Non-operating expenses,Financial performance,183,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H21,Opening stocks,Financial performance,"4,611","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H22,Closing stocks,Financial performance,"4,779","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,600","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H24,Total assets,Financial position,"16,023","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H25,Current assets,Financial position,"10,009","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H26,Fixed tangible assets,Financial position,"2,865","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H27,Additions to fixed assets,Financial position,754,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H28,Disposals of fixed assets,Financial position,279,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H29,Other assets,Financial position,"3,150","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H30,Total equity and liabilities,Financial position,"16,023","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"5,384","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H32,Current liabilities,Financial position,"7,489","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars (millions),H33,Other liabilities,Financial position,"3,150","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars,H34,Total income per employee count,Financial ratios,"276,400","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Dollars,H35,Surplus per employee count,Financial ratios,"13,700","ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Percentage,H36,Current ratio,Financial ratios,134,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Percentage,H37,Quick ratio,Financial ratios,70,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,36,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Percentage,H39,Return on equity,Financial ratios,30,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Percentage,H40,Return on total assets,Financial ratios,10,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 3,GH13,Other Store-Based Retailing and Non Store Retailing,Percentage,H41,Liabilities structure,Financial ratios,34,"ANZSIC06 groups G421, G422, G423, G424, G425, G426, G427, G431, and G432"
+2018,Level 4,GH211,Accommodation,Dollars (millions),H01,Total income,Financial performance,"3,998",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H02,Sales of goods not further processed,Financial performance,508,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H03,Sales of other goods and services,Financial performance,"3,372",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,31,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,2,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H07,Non-operating income,Financial performance,85,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H08,Total expenditure,Financial performance,"3,419",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H09,Interest and donations,Financial performance,130,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H10,Indirect taxes,Financial performance,76,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H11,Depreciation,Financial performance,160,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H12,Salaries and wages paid,Financial performance,999,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,195,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,811",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H20,Non-operating expenses,Financial performance,49,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H21,Opening stocks,Financial performance,57,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H22,Closing stocks,Financial performance,59,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H23,Surplus before income tax,Financial performance,580,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H24,Total assets,Financial position,"9,846",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H25,Current assets,Financial position,"1,838",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H26,Fixed tangible assets,Financial position,"6,630",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H27,Additions to fixed assets,Financial position,830,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H28,Disposals of fixed assets,Financial position,467,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H29,Other assets,Financial position,"1,377",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H30,Total equity and liabilities,Financial position,"9,846",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"3,749",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H32,Current liabilities,Financial position,"2,712",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars (millions),H33,Other liabilities,Financial position,"3,385",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars,H34,Total income per employee count,Financial ratios,"126,300",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Dollars,H35,Surplus per employee count,Financial ratios,"18,300",ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Percentage,H36,Current ratio,Financial ratios,68,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Percentage,H37,Quick ratio,Financial ratios,66,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Percentage,H38,Margin on sales of goods for resale,Financial ratios,62,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Percentage,H39,Return on equity,Financial ratios,15,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Percentage,H40,Return on total assets,Financial ratios,6,ANZSIC06 group H440
+2018,Level 4,GH211,Accommodation,Percentage,H41,Liabilities structure,Financial ratios,38,ANZSIC06 group H440
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H01,Total income,Financial performance,"11,194","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"2,866","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H03,Sales of other goods and services,Financial performance,"8,206","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,36,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H07,Non-operating income,Financial performance,85,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H08,Total expenditure,Financial performance,"10,660","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H09,Interest and donations,Financial performance,108,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H10,Indirect taxes,Financial performance,49,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H11,Depreciation,Financial performance,313,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"3,447","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H13,Redundancy and severance,Financial performance,1,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"1,334","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"5,370","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H20,Non-operating expenses,Financial performance,39,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H21,Opening stocks,Financial performance,216,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H22,Closing stocks,Financial performance,224,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H23,Surplus before income tax,Financial performance,542,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H24,Total assets,Financial position,"6,544","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H25,Current assets,Financial position,"1,747","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"3,224","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H27,Additions to fixed assets,Financial position,696,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,424,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H29,Other assets,Financial position,"1,574","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"6,544","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,902","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H32,Current liabilities,Financial position,"2,997","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars (millions),H33,Other liabilities,Financial position,"1,645","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars,H34,Total income per employee count,Financial ratios,"87,700","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Dollars,H35,Surplus per employee count,Financial ratios,"4,200","ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Percentage,H36,Current ratio,Financial ratios,58,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Percentage,H37,Quick ratio,Financial ratios,51,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Percentage,H38,Margin on sales of goods for resale,Financial ratios,53,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Percentage,H39,Return on equity,Financial ratios,28,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Percentage,H40,Return on total assets,Financial ratios,8,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 4,GH212,Food and Beverage Services,Percentage,H41,Liabilities structure,Financial ratios,29,"ANZSIC06 groups H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H01,Total income,Financial performance,"15,192","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"3,373","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H03,Sales of other goods and services,Financial performance,"11,578","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,66,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,2,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H07,Non-operating income,Financial performance,171,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H08,Total expenditure,Financial performance,"14,079","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H09,Interest and donations,Financial performance,238,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H10,Indirect taxes,Financial performance,126,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H11,Depreciation,Financial performance,473,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"4,445","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H13,Redundancy and severance,Financial performance,1,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"1,529","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"7,180","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H20,Non-operating expenses,Financial performance,88,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H21,Opening stocks,Financial performance,274,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H22,Closing stocks,Financial performance,283,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,122","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H24,Total assets,Financial position,"16,390","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H25,Current assets,Financial position,"3,585","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"9,854","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H27,Additions to fixed assets,Financial position,"1,526","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,891,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H29,Other assets,Financial position,"2,951","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"16,390","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"5,651","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H32,Current liabilities,Financial position,"5,709","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars (millions),H33,Other liabilities,Financial position,"5,030","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars,H34,Total income per employee count,Financial ratios,"95,400","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Dollars,H35,Surplus per employee count,Financial ratios,"7,000","ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Percentage,H36,Current ratio,Financial ratios,63,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Percentage,H37,Quick ratio,Financial ratios,58,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Percentage,H38,Margin on sales of goods for resale,Financial ratios,55,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Percentage,H39,Return on equity,Financial ratios,20,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Percentage,H40,Return on total assets,Financial ratios,7,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 3,GH21,Accommodation and Food Services,Percentage,H41,Liabilities structure,Financial ratios,34,"ANZSIC06 groups H440, H451, H452, and H453"
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H01,Total income,Financial performance,"89,598",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"74,541",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H03,Sales of other goods and services,Financial performance,"14,499",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,245,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,4,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H07,Non-operating income,Financial performance,310,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H08,Total expenditure,Financial performance,"85,898",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H09,Interest and donations,Financial performance,596,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H10,Indirect taxes,Financial performance,312,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H11,Depreciation,Financial performance,"1,280",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H12,Salaries and wages paid,Financial performance,"12,926",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H13,Redundancy and severance,Financial performance,8,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"54,610",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"15,837",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H20,Non-operating expenses,Financial performance,338,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H21,Opening stocks,Financial performance,"7,955",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H22,Closing stocks,Financial performance,"8,364",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H23,Surplus before income tax,Financial performance,"4,109",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H24,Total assets,Financial position,"45,427",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H25,Current assets,Financial position,"20,596",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H26,Fixed tangible assets,Financial position,"15,974",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H27,Additions to fixed assets,Financial position,"2,983",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H28,Disposals of fixed assets,Financial position,"1,392",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H29,Other assets,Financial position,"8,857",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H30,Total equity and liabilities,Financial position,"45,427",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"15,587",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H32,Current liabilities,Financial position,"19,528",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars (millions),H33,Other liabilities,Financial position,"10,312",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars,H34,Total income per employee count,Financial ratios,"240,100",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Dollars,H35,Surplus per employee count,Financial ratios,"11,000",ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Percentage,H36,Current ratio,Financial ratios,105,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Percentage,H37,Quick ratio,Financial ratios,63,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Percentage,H38,Margin on sales of goods for resale,Financial ratios,27,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Percentage,H39,Return on equity,Financial ratios,26,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 divisions G and H
+2018,Level 1,GH,Retail Trade and Accommodation,Percentage,H41,Liabilities structure,Financial ratios,34,ANZSIC06 divisions G and H
+2018,Level 4,II111,Road Transport,Dollars (millions),H01,Total income,Financial performance,"9,066",ANZSIC06 groups I461 and I462
+2018,Level 4,II111,Road Transport,Dollars (millions),H04,Sales of goods and services,Financial performance,"8,819",ANZSIC06 groups I461 and I462
+2018,Level 4,II111,Road Transport,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,43,ANZSIC06 groups I461 and I462
+2018,Level 4,II111,Road Transport,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,ANZSIC06 groups I461 and I462
+2018,Level 4,II111,Road Transport,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 groups I461 and I462
+2018,Level 4,II111,Road Transport,Dollars (millions),H08,Total expenditure,Financial performance,"8,373",ANZSIC06 groups I461 and I462

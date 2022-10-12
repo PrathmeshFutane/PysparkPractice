@@ -1,0 +1,500 @@
+2020,Level 3,EE13,Construction Services,Dollars,H34,Total income per employee count,Financial ratios,"289,200","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2020,Level 3,EE13,Construction Services,Dollars,H35,Surplus per employee count,Financial ratios,"25,200","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2020,Level 3,EE13,Construction Services,Percentage,H36,Current ratio,Financial ratios,148,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2020,Level 3,EE13,Construction Services,Percentage,H37,Quick ratio,Financial ratios,100,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2020,Level 3,EE13,Construction Services,Percentage,H39,Return on equity,Financial ratios,34,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2020,Level 3,EE13,Construction Services,Percentage,H40,Return on total assets,Financial ratios,10,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2020,Level 3,EE13,Construction Services,Percentage,H41,Liabilities structure,Financial ratios,31,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2020,Level 1,EE,Construction,Dollars (millions),H01,Total income,Financial performance,"71,627",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H04,Sales of goods and services,Financial performance,"70,848",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,345,ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,239,ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H07,Non-operating income,Financial performance,195,ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H08,Total expenditure,Financial performance,"66,744",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H09,Interest and donations,Financial performance,816,ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H10,Indirect taxes,Financial performance,271,ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H11,Depreciation,Financial performance,"1,521",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H12,Salaries and wages paid,Financial performance,"14,489",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H13,Redundancy and severance,Financial performance,11,ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"49,132",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H20,Non-operating expenses,Financial performance,515,ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H21,Opening stocks,Financial performance,"9,065",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H22,Closing stocks,Financial performance,"8,917",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H23,Surplus before income tax,Financial performance,"4,734",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H24,Total assets,Financial position,"49,028",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H25,Current assets,Financial position,"29,128",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H26,Fixed tangible assets,Financial position,"11,874",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H27,Additions to fixed assets,Financial position,"3,228",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H28,Disposals of fixed assets,Financial position,"1,272",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H29,Other assets,Financial position,"8,026",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H30,Total equity and liabilities,Financial position,"49,028",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"13,386",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H32,Current liabilities,Financial position,"21,777",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars (millions),H33,Other liabilities,Financial position,"13,865",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars,H34,Total income per employee count,Financial ratios,"400,000",ANZSIC06 division E
+2020,Level 1,EE,Construction,Dollars,H35,Surplus per employee count,Financial ratios,"26,400",ANZSIC06 division E
+2020,Level 1,EE,Construction,Percentage,H36,Current ratio,Financial ratios,134,ANZSIC06 division E
+2020,Level 1,EE,Construction,Percentage,H37,Quick ratio,Financial ratios,93,ANZSIC06 division E
+2020,Level 1,EE,Construction,Percentage,H39,Return on equity,Financial ratios,35,ANZSIC06 division E
+2020,Level 1,EE,Construction,Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 division E
+2020,Level 1,EE,Construction,Percentage,H41,Liabilities structure,Financial ratios,27,ANZSIC06 division E
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H01,Total income,Financial performance,"24,451","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"21,164","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H03,Sales of other goods and services,Financial performance,"3,058","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,134,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,44,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H07,Non-operating income,Financial performance,51,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H08,Total expenditure,Financial performance,"23,694","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H09,Interest and donations,Financial performance,183,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H10,Indirect taxes,Financial performance,71,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H11,Depreciation,Financial performance,376,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,635","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H13,Redundancy and severance,Financial performance,7,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"17,161","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"4,165","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H20,Non-operating expenses,Financial performance,103,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H21,Opening stocks,Financial performance,"2,667","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H22,Closing stocks,Financial performance,"2,636","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H23,Surplus before income tax,Financial performance,727,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H24,Total assets,Financial position,"13,761","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H25,Current assets,Financial position,"7,481","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H26,Fixed tangible assets,Financial position,"2,254","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H27,Additions to fixed assets,Financial position,494,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H28,Disposals of fixed assets,Financial position,97,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H29,Other assets,Financial position,"4,026","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H30,Total equity and liabilities,Financial position,"13,761","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"5,016","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H32,Current liabilities,Financial position,"5,042","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars (millions),H33,Other liabilities,Financial position,"3,703","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars,H34,Total income per employee count,Financial ratios,"1,081,400","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Dollars,H35,Surplus per employee count,Financial ratios,"32,200","ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Percentage,H36,Current ratio,Financial ratios,148,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Percentage,H37,Quick ratio,Financial ratios,96,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Percentage,H38,Margin on sales of goods for resale,Financial ratios,19,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Percentage,H39,Return on equity,Financial ratios,14,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Percentage,H40,Return on total assets,Financial ratios,5,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF111,Basic Material Wholesaling,Percentage,H41,Liabilities structure,Financial ratios,36,"ANZSIC06 groups F331, F332, and F333"
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H01,Total income,Financial performance,"22,424",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"18,442",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H03,Sales of other goods and services,Financial performance,"3,659",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,194,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,49,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H07,Non-operating income,Financial performance,81,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H08,Total expenditure,Financial performance,"21,374",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H09,Interest and donations,Financial performance,163,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H10,Indirect taxes,Financial performance,62,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H11,Depreciation,Financial performance,371,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,666",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H13,Redundancy and severance,Financial performance,3,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"14,772",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"3,198",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H20,Non-operating expenses,Financial performance,143,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H21,Opening stocks,Financial performance,"3,551",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H22,Closing stocks,Financial performance,"3,541",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,041",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H24,Total assets,Financial position,"14,464",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H25,Current assets,Financial position,"9,293",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,381",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H27,Additions to fixed assets,Financial position,465,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H28,Disposals of fixed assets,Financial position,201,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H29,Other assets,Financial position,"3,790",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H30,Total equity and liabilities,Financial position,"14,464",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,907",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H32,Current liabilities,Financial position,"6,464",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars (millions),H33,Other liabilities,Financial position,"3,093",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars,H34,Total income per employee count,Financial ratios,"702,900",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Dollars,H35,Surplus per employee count,Financial ratios,"32,600",ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Percentage,H36,Current ratio,Financial ratios,144,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Percentage,H37,Quick ratio,Financial ratios,89,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Percentage,H38,Margin on sales of goods for resale,Financial ratios,20,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Percentage,H39,Return on equity,Financial ratios,21,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 groups F341 and F349
+2020,Level 4,FF112,Machinery and Equipment Wholesaling,Percentage,H41,Liabilities structure,Financial ratios,34,ANZSIC06 groups F341 and F349
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H01,Total income,Financial performance,"10,550",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"9,974",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H03,Sales of other goods and services,Financial performance,531,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,17,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,9,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H07,Non-operating income,Financial performance,19,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H08,Total expenditure,Financial performance,"10,128",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H09,Interest and donations,Financial performance,63,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H10,Indirect taxes,Financial performance,19,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H11,Depreciation,Financial performance,98,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H12,Salaries and wages paid,Financial performance,628,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"8,483",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,799,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H20,Non-operating expenses,Financial performance,36,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H21,Opening stocks,Financial performance,"2,823",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H22,Closing stocks,Financial performance,"2,666",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H23,Surplus before income tax,Financial performance,266,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H24,Total assets,Financial position,"5,734",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H25,Current assets,Financial position,"4,553",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H26,Fixed tangible assets,Financial position,457,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H27,Additions to fixed assets,Financial position,106,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H28,Disposals of fixed assets,Financial position,52,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H29,Other assets,Financial position,724,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H30,Total equity and liabilities,Financial position,"5,734",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,893",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H32,Current liabilities,Financial position,"2,942",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars (millions),H33,Other liabilities,Financial position,899,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars,H34,Total income per employee count,Financial ratios,"1,179,700",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Dollars,H35,Surplus per employee count,Financial ratios,"29,700",ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Percentage,H36,Current ratio,Financial ratios,155,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Percentage,H37,Quick ratio,Financial ratios,64,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Percentage,H38,Margin on sales of goods for resale,Financial ratios,15,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Percentage,H39,Return on equity,Financial ratios,14,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Percentage,H40,Return on total assets,Financial ratios,5,ANZSIC06 group F350
+2020,Level 4,FF113,Motor Vehicle and Motor Vehicle Parts Wholesaling,Percentage,H41,Liabilities structure,Financial ratios,33,ANZSIC06 group F350
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H01,Total income,Financial performance,"36,663",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H02,Sales of goods not further processed,Financial performance,"33,269",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H03,Sales of other goods and services,Financial performance,"3,092",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,91,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,20,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H07,Non-operating income,Financial performance,191,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H08,Total expenditure,Financial performance,"36,146",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H09,Interest and donations,Financial performance,105,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H10,Indirect taxes,Financial performance,117,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H11,Depreciation,Financial performance,291,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,639",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H13,Redundancy and severance,Financial performance,2,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"29,504",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"4,422",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H20,Non-operating expenses,Financial performance,68,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H21,Opening stocks,Financial performance,"2,402",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H22,Closing stocks,Financial performance,"2,753",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H23,Surplus before income tax,Financial performance,868,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H24,Total assets,Financial position,"14,236",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H25,Current assets,Financial position,"9,390",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H26,Fixed tangible assets,Financial position,"1,731",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H27,Additions to fixed assets,Financial position,373,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H28,Disposals of fixed assets,Financial position,160,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H29,Other assets,Financial position,"3,115",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H30,Total equity and liabilities,Financial position,"14,236",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,220",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H32,Current liabilities,Financial position,"8,122",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars (millions),H33,Other liabilities,Financial position,"1,895",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars,H34,Total income per employee count,Financial ratios,"1,457,700",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Dollars,H35,Surplus per employee count,Financial ratios,"34,500",ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Percentage,H36,Current ratio,Financial ratios,116,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Percentage,H37,Quick ratio,Financial ratios,82,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Percentage,H38,Margin on sales of goods for resale,Financial ratios,11,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Percentage,H39,Return on equity,Financial ratios,21,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Percentage,H40,Return on total assets,Financial ratios,6,ANZSIC06 group F360
+2020,Level 4,FF114,"Grocery, Liquor and Tobacco Product Wholesaling",Percentage,H41,Liabilities structure,Financial ratios,30,ANZSIC06 group F360
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H01,Total income,Financial performance,"17,311","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"15,755","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H03,Sales of other goods and services,Financial performance,"1,435","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,44,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,31,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H07,Non-operating income,Financial performance,47,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H08,Total expenditure,Financial performance,"16,362","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H09,Interest and donations,Financial performance,110,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H10,Indirect taxes,Financial performance,30,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H11,Depreciation,Financial performance,200,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,739","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H13,Redundancy and severance,Financial performance,7,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"11,238","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"2,949","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H20,Non-operating expenses,Financial performance,98,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H21,Opening stocks,Financial performance,"2,595","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H22,Closing stocks,Financial performance,"2,696","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,050","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H24,Total assets,Financial position,"11,638","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H25,Current assets,Financial position,"8,362","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H26,Fixed tangible assets,Financial position,961,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H27,Additions to fixed assets,Financial position,293,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H28,Disposals of fixed assets,Financial position,107,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H29,Other assets,Financial position,"2,315","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H30,Total equity and liabilities,Financial position,"11,638","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,866","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H32,Current liabilities,Financial position,"4,857","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars (millions),H33,Other liabilities,Financial position,"1,915","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars,H34,Total income per employee count,Financial ratios,"732,600","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Dollars,H35,Surplus per employee count,Financial ratios,"44,400","ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Percentage,H36,Current ratio,Financial ratios,172,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Percentage,H37,Quick ratio,Financial ratios,117,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Percentage,H38,Margin on sales of goods for resale,Financial ratios,29,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Percentage,H39,Return on equity,Financial ratios,22,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Percentage,H40,Return on total assets,Financial ratios,9,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF115,Other Goods Wholesaling,Percentage,H41,Liabilities structure,Financial ratios,42,"ANZSIC06 groups F371, F372, and F373"
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H01,Total income,Financial performance,"1,060",ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H02,Sales of goods not further processed,Financial performance,141,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H03,Sales of other goods and services,Financial performance,886,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,16,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,8,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H07,Non-operating income,Financial performance,10,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H08,Total expenditure,Financial performance,828,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H09,Interest and donations,Financial performance,14,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H10,Indirect taxes,Financial performance,7,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H11,Depreciation,Financial performance,57,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H12,Salaries and wages paid,Financial performance,265,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,81,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,384,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H20,Non-operating expenses,Financial performance,20,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H21,Opening stocks,Financial performance,80,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H22,Closing stocks,Financial performance,74,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H23,Surplus before income tax,Financial performance,226,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H24,Total assets,Financial position,"1,191",ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H25,Current assets,Financial position,794,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H26,Fixed tangible assets,Financial position,179,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H27,Additions to fixed assets,Financial position,50,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H28,Disposals of fixed assets,Financial position,20,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H29,Other assets,Financial position,217,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H30,Total equity and liabilities,Financial position,"1,191",ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,411,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H32,Current liabilities,Financial position,593,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars (millions),H33,Other liabilities,Financial position,186,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars,H34,Total income per employee count,Financial ratios,"272,000",ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Dollars,H35,Surplus per employee count,Financial ratios,"58,000",ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Percentage,H36,Current ratio,Financial ratios,134,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Percentage,H37,Quick ratio,Financial ratios,121,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Percentage,H38,Margin on sales of goods for resale,Financial ratios,43,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Percentage,H39,Return on equity,Financial ratios,55,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Percentage,H40,Return on total assets,Financial ratios,19,ANZSIC06 Group F380
+2020,Level 4,FF116,Commission Based Wholesaling,Percentage,H41,Liabilities structure,Financial ratios,35,ANZSIC06 Group F380
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H01,Total income,Financial performance,"112,460",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"98,745",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H03,Sales of other goods and services,Financial performance,"12,661",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,496,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,160,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H07,Non-operating income,Financial performance,399,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H08,Total expenditure,Financial performance,"108,531",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H09,Interest and donations,Financial performance,637,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H10,Indirect taxes,Financial performance,306,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H11,Depreciation,Financial performance,"1,393",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H12,Salaries and wages paid,Financial performance,"8,573",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H13,Redundancy and severance,Financial performance,20,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"81,238",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"15,916",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H20,Non-operating expenses,Financial performance,468,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H21,Opening stocks,Financial performance,"14,118",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H22,Closing stocks,Financial performance,"14,366",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H23,Surplus before income tax,Financial performance,"4,178",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H24,Total assets,Financial position,"61,023",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H25,Current assets,Financial position,"39,873",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H26,Fixed tangible assets,Financial position,"6,963",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H27,Additions to fixed assets,Financial position,"1,781",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H28,Disposals of fixed assets,Financial position,636,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H29,Other assets,Financial position,"14,187",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H30,Total equity and liabilities,Financial position,"61,023",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"21,313",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H32,Current liabilities,Financial position,"28,020",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars (millions),H33,Other liabilities,Financial position,"11,690",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars,H34,Total income per employee count,Financial ratios,"968,300",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Dollars,H35,Surplus per employee count,Financial ratios,"36,000",ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Percentage,H36,Current ratio,Financial ratios,142,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Percentage,H37,Quick ratio,Financial ratios,91,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Percentage,H38,Margin on sales of goods for resale,Financial ratios,18,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Percentage,H39,Return on equity,Financial ratios,20,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 division F
+2020,Level 1,FF,Wholesale Trade,Percentage,H41,Liabilities structure,Financial ratios,35,ANZSIC06 division F
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H01,Total income,Financial performance,"18,986","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"18,084","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H03,Sales of other goods and services,Financial performance,814,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,39,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,15,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H07,Non-operating income,Financial performance,33,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H08,Total expenditure,Financial performance,"18,547","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H09,Interest and donations,Financial performance,119,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H10,Indirect taxes,Financial performance,45,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H11,Depreciation,Financial performance,188,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,514","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"15,413","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,245","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H20,Non-operating expenses,Financial performance,23,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H21,Opening stocks,Financial performance,"2,264","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H22,Closing stocks,Financial performance,"2,293","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H23,Surplus before income tax,Financial performance,467,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H24,Total assets,Financial position,"6,467","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H25,Current assets,Financial position,"3,893","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,403","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H27,Additions to fixed assets,Financial position,328,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H28,Disposals of fixed assets,Financial position,147,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H29,Other assets,Financial position,"1,172","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H30,Total equity and liabilities,Financial position,"6,467","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,159","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H32,Current liabilities,Financial position,"2,945","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars (millions),H33,Other liabilities,Financial position,"1,363","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars,H34,Total income per employee count,Financial ratios,"666,600","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Dollars,H35,Surplus per employee count,Financial ratios,"16,400","ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H36,Current ratio,Financial ratios,132,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H37,Quick ratio,Financial ratios,54,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,15,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H39,Return on equity,Financial ratios,22,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H40,Return on total assets,Financial ratios,7,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH11,Motor Vehicle and Motor Vehicle Parts and Fuel Retailing,Percentage,H41,Liabilities structure,Financial ratios,33,"ANZSIC06 groups G391, G392, and G400"
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H01,Total income,Financial performance,"25,870",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,"25,025",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H03,Sales of other goods and services,Financial performance,729,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,51,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,9,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H07,Non-operating income,Financial performance,56,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H08,Total expenditure,Financial performance,"24,844",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H09,Interest and donations,Financial performance,156,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H10,Indirect taxes,Financial performance,39,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H11,Depreciation,Financial performance,467,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,570",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"19,740",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,849",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H20,Non-operating expenses,Financial performance,22,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H21,Opening stocks,Financial performance,"1,149",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H22,Closing stocks,Financial performance,"1,183",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H23,Surplus before income tax,Financial performance,"1,061",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H24,Total assets,Financial position,"10,847",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H25,Current assets,Financial position,"4,578",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H26,Fixed tangible assets,Financial position,"2,442",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H27,Additions to fixed assets,Financial position,493,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H28,Disposals of fixed assets,Financial position,197,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H29,Other assets,Financial position,"3,827",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H30,Total equity and liabilities,Financial position,"10,847",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"3,183",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H32,Current liabilities,Financial position,"4,807",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars (millions),H33,Other liabilities,Financial position,"2,858",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars,H34,Total income per employee count,Financial ratios,"358,100",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Dollars,H35,Surplus per employee count,Financial ratios,"14,700",ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H36,Current ratio,Financial ratios,95,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H37,Quick ratio,Financial ratios,71,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,21,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H39,Return on equity,Financial ratios,33,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 groups G411 and G412
+2020,Level 3,GH12,"Supermarket, Grocery Stores and Specialised Food Retailing",Percentage,H41,Liabilities structure,Financial ratios,29,ANZSIC06 groups G411 and G412
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H01,Total income,Financial performance,"14,692","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,"14,084","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H03,Sales of other goods and services,Financial performance,439,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,50,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,97,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H07,Non-operating income,Financial performance,22,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H08,Total expenditure,Financial performance,"14,003","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H09,Interest and donations,Financial performance,98,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H10,Indirect taxes,Financial performance,50,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H11,Depreciation,Financial performance,312,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,139","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H13,Redundancy and severance,Financial performance,2,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"9,795","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,516","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H20,Non-operating expenses,Financial performance,93,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H21,Opening stocks,Financial performance,"1,991","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H22,Closing stocks,Financial performance,"2,004","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H23,Surplus before income tax,Financial performance,703,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H24,Total assets,Financial position,"7,833","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H25,Current assets,Financial position,"4,218","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H26,Fixed tangible assets,Financial position,"1,180","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H27,Additions to fixed assets,Financial position,326,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H28,Disposals of fixed assets,Financial position,76,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H29,Other assets,Financial position,"2,435","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H30,Total equity and liabilities,Financial position,"7,833","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,315","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H32,Current liabilities,Financial position,"3,485","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars (millions),H33,Other liabilities,Financial position,"2,033","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars,H34,Total income per employee count,Financial ratios,"376,000","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Dollars,H35,Surplus per employee count,Financial ratios,"18,000","ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H36,Current ratio,Financial ratios,121,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H37,Quick ratio,Financial ratios,64,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,30,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H39,Return on equity,Financial ratios,30,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H40,Return on total assets,Financial ratios,9,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH131,"Furniture, Electrical and Hardware Retailing",Percentage,H41,Liabilities structure,Financial ratios,30,"ANZSIC06 groups G421, G422, and G423"
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H01,Total income,Financial performance,"6,535",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,"6,215",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H03,Sales of other goods and services,Financial performance,207,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,71,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H08,Total expenditure,Financial performance,"6,166",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H09,Interest and donations,Financial performance,69,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H10,Indirect taxes,Financial performance,19,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H11,Depreciation,Financial performance,277,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,120",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"3,275",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,332",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H20,Non-operating expenses,Financial performance,75,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H21,Opening stocks,Financial performance,"1,398",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H22,Closing stocks,Financial performance,"1,367",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H23,Surplus before income tax,Financial performance,338,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H24,Total assets,Financial position,"5,178",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H25,Current assets,Financial position,"2,846",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H26,Fixed tangible assets,Financial position,704,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H27,Additions to fixed assets,Financial position,207,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H28,Disposals of fixed assets,Financial position,107,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H29,Other assets,Financial position,"1,627",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H30,Total equity and liabilities,Financial position,"5,178",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,702",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H32,Current liabilities,Financial position,"2,203",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars (millions),H33,Other liabilities,Financial position,"1,273",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars,H34,Total income per employee count,Financial ratios,"208,600",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Dollars,H35,Surplus per employee count,Financial ratios,"10,800",ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H36,Current ratio,Financial ratios,129,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H37,Quick ratio,Financial ratios,67,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,47,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H39,Return on equity,Financial ratios,20,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 groups G424 and G425
+2020,Level 4,GH132,"Recreational, Clothing, Footwear and Personal Accessory Retailing",Percentage,H41,Liabilities structure,Financial ratios,33,ANZSIC06 groups G424 and G425
+2020,Level 4,GH133,Department Stores,Dollars (millions),H01,Total income,Financial performance,"5,272",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"5,116",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H03,Sales of other goods and services,Financial performance,47,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,100,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H08,Total expenditure,Financial performance,"5,018",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H09,Interest and donations,Financial performance,99,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H10,Indirect taxes,Financial performance,27,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H11,Depreciation,Financial performance,278,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H12,Salaries and wages paid,Financial performance,896,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"3,131",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,566,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H20,Non-operating expenses,Financial performance,20,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H21,Opening stocks,Financial performance,827,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H22,Closing stocks,Financial performance,756,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H23,Surplus before income tax,Financial performance,184,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H24,Total assets,Financial position,"4,159",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H25,Current assets,Financial position,"1,437",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H26,Fixed tangible assets,Financial position,527,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H27,Additions to fixed assets,Financial position,130,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H28,Disposals of fixed assets,Financial position,20,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H29,Other assets,Financial position,"2,196",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H30,Total equity and liabilities,Financial position,"4,159",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,095",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H32,Current liabilities,Financial position,900,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars (millions),H33,Other liabilities,Financial position,"2,164",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars,H34,Total income per employee count,Financial ratios,"258,700",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Dollars,H35,Surplus per employee count,Financial ratios,"9,000",ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Percentage,H36,Current ratio,Financial ratios,160,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Percentage,H37,Quick ratio,Financial ratios,76,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Percentage,H38,Margin on sales of goods for resale,Financial ratios,39,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Percentage,H39,Return on equity,Financial ratios,17,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 group G426
+2020,Level 4,GH133,Department Stores,Percentage,H41,Liabilities structure,Financial ratios,26,ANZSIC06 group G426
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H01,Total income,Financial performance,"6,299",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"5,244",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H03,Sales of other goods and services,Financial performance,990,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,25,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,21,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H07,Non-operating income,Financial performance,18,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H08,Total expenditure,Financial performance,"5,924",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H09,Interest and donations,Financial performance,54,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H10,Indirect taxes,Financial performance,15,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H11,Depreciation,Financial performance,215,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,016",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"3,359",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,235",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H20,Non-operating expenses,Financial performance,30,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H21,Opening stocks,Financial performance,730,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H22,Closing stocks,Financial performance,729,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H23,Surplus before income tax,Financial performance,373,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H24,Total assets,Financial position,"3,888",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H25,Current assets,Financial position,"1,882",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H26,Fixed tangible assets,Financial position,592,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H27,Additions to fixed assets,Financial position,130,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H28,Disposals of fixed assets,Financial position,64,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H29,Other assets,Financial position,"1,414",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H30,Total equity and liabilities,Financial position,"3,888",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,975,ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H32,Current liabilities,Financial position,"1,885",ANZSIC06 group G427
+2020,Level 4,GH134,Pharmaceutical and Other Store Based Retailing,Dollars (millions),H33,Other liabilities,Financial position,"1,027",ANZSIC06 group G427

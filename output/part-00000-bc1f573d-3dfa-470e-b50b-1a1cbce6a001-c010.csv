@@ -1,0 +1,500 @@
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H04,Sales of goods and services,Financial performance,"4,698","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,31,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,13,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H07,Non-operating income,Financial performance,56,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H08,Total expenditure,Financial performance,"4,427","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H09,Interest and donations,Financial performance,127,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H10,Indirect taxes,Financial performance,18,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H11,Depreciation,Financial performance,275,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,324","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,641","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H20,Non-operating expenses,Financial performance,42,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H21,Opening stocks,Financial performance,246,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H22,Closing stocks,Financial performance,285,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H23,Surplus before income tax,Financial performance,411,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H24,Total assets,Financial position,"6,670","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H25,Current assets,Financial position,"1,776","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H26,Fixed tangible assets,Financial position,"3,750","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H29,Other assets,Financial position,"1,144","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H30,Total equity and liabilities,Financial position,"6,670","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,589","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H32,Current liabilities,Financial position,"1,753","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H33,Other liabilities,Financial position,"2,328","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars,H34,Total income per employee count,Financial ratios,"166,700","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars,H35,Surplus per employee count,Financial ratios,"14,300","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H36,Current ratio,Financial ratios,101,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H37,Quick ratio,Financial ratios,85,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H39,Return on equity,Financial ratios,16,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H40,Return on total assets,Financial ratios,6,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H41,Liabilities structure,Financial ratios,39,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H01,Total income,Financial performance,"45,699",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H04,Sales of goods and services,Financial performance,"43,294",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,486,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,14,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H07,Non-operating income,Financial performance,"1,905",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H08,Total expenditure,Financial performance,"39,415",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H09,Interest and donations,Financial performance,"2,929",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H10,Indirect taxes,Financial performance,476,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H11,Depreciation,Financial performance,"2,090",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"5,585",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"27,761",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H20,Non-operating expenses,Financial performance,573,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H21,Opening stocks,Financial performance,"14,659",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H22,Closing stocks,Financial performance,"14,857",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H23,Surplus before income tax,Financial performance,"6,483",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H24,Total assets,Financial position,"178,831",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H25,Current assets,Financial position,"34,737",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H26,Fixed tangible assets,Financial position,"102,839",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H29,Other assets,Financial position,"41,255",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H30,Total equity and liabilities,Financial position,"178,830",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"82,879",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H32,Current liabilities,Financial position,"31,436",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H33,Other liabilities,Financial position,"64,515",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars,H34,Total income per employee count,Financial ratios,"390,400",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars,H35,Surplus per employee count,Financial ratios,"55,400",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H36,Current ratio,Financial ratios,111,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H37,Quick ratio,Financial ratios,63,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H39,Return on equity,Financial ratios,8,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H41,Liabilities structure,Financial ratios,46,ANZSIC06 division A
+2019,Level 1,BB,Mining,Dollars (millions),H01,Total income,Financial performance,"6,223",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H04,Sales of goods and services,Financial performance,"5,129",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,3,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H08,Total expenditure,Financial performance,"4,741",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H09,Interest and donations,Financial performance,147,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H10,Indirect taxes,Financial performance,44,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H11,Depreciation,Financial performance,755,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H12,Salaries and wages paid,Financial performance,647,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,542",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H20,Non-operating expenses,Financial performance,607,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H21,Opening stocks,Financial performance,288,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H22,Closing stocks,Financial performance,318,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,512",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H24,Total assets,Financial position,"19,302",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H25,Current assets,Financial position,"5,520",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H26,Fixed tangible assets,Financial position,"8,197",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H27,Additions to fixed assets,Financial position,928,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H28,Disposals of fixed assets,Financial position,131,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H29,Other assets,Financial position,"5,585",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H30,Total equity and liabilities,Financial position,"19,302",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,639",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H32,Current liabilities,Financial position,"7,902",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H33,Other liabilities,Financial position,"6,761",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars,H34,Total income per employee count,Financial ratios,"1,211,100",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars,H35,Surplus per employee count,Financial ratios,"294,200",ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H36,Current ratio,Financial ratios,70,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H37,Quick ratio,Financial ratios,66,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H39,Return on equity,Financial ratios,33,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H41,Liabilities structure,Financial ratios,24,ANZSIC06 division B
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H01,Total income,Financial performance,"6,528",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,314,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"6,074",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,24,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,114,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"6,052",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,98,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,"1,128",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,220,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,681,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,4,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,218,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"3,674",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,33,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,"1,742",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,"1,870",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,604,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H24,Total assets,Financial position,"9,741",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H25,Current assets,Financial position,"4,197",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,"4,014",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,449,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,136,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H29,Other assets,Financial position,"1,529",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"9,741",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"5,123",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"2,119",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,"2,499",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"635,600",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"58,800",ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Percentage,H36,Current ratio,Financial ratios,198,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Percentage,H37,Quick ratio,Financial ratios,110,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,31,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Percentage,H39,Return on equity,Financial ratios,12,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Percentage,H40,Return on total assets,Financial ratios,6,ANZSIC06 groups C121 and C122
+2019,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,53,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H01,Total income,Financial performance,"6,528",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,314,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"6,074",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,24,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,114,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"6,052",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,98,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,"1,128",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,220,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,681,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,4,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,218,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"3,674",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,33,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,"1,742",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,"1,870",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,604,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H24,Total assets,Financial position,"9,741",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H25,Current assets,Financial position,"4,197",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,"4,014",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,449,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,136,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H29,Other assets,Financial position,"1,529",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"9,741",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"5,123",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"2,119",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,"2,499",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"635,600",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"58,800",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Percentage,H36,Current ratio,Financial ratios,198,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Percentage,H37,Quick ratio,Financial ratios,110,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,31,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Percentage,H39,Return on equity,Financial ratios,12,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Percentage,H40,Return on total assets,Financial ratios,6,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,53,ANZSIC06 groups C121 and C122
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H01,Total income,Financial performance,"1,696","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,197,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"1,488","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,3,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,7,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"1,656","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,16,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,4,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,31,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,315,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,136,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,144","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,11,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,275,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,292,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,57,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H24,Total assets,Financial position,"1,127","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H25,Current assets,Financial position,680,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,296,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,39,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,14,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H29,Other assets,Financial position,152,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"1,127","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,484,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,449,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,195,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"305,600","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"10,300","ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Percentage,H36,Current ratio,Financial ratios,152,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Percentage,H37,Quick ratio,Financial ratios,86,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,31,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Percentage,H39,Return on equity,Financial ratios,12,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Percentage,H40,Return on total assets,Financial ratios,5,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC211,Textile and Leather Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,43,"ANZSIC06 groups C131, C132, and C133"
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H01,Total income,Financial performance,470,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,52,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H03,Sales of other goods and services,Financial performance,416,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,1,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H07,Non-operating income,Financial performance,1,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H08,Total expenditure,Financial performance,437,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H09,Interest and donations,Financial performance,5,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H10,Indirect taxes,Financial performance,2,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H11,Depreciation,Financial performance,8,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H12,Salaries and wages paid,Financial performance,123,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,28,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,269,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H20,Non-operating expenses,Financial performance,1,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H21,Opening stocks,Financial performance,103,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H22,Closing stocks,Financial performance,113,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H23,Surplus before income tax,Financial performance,43,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H24,Total assets,Financial position,326,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H25,Current assets,Financial position,217,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H26,Fixed tangible assets,Financial position,68,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H27,Additions to fixed assets,Financial position,16,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H28,Disposals of fixed assets,Financial position,8,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H29,Other assets,Financial position,40,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H30,Total equity and liabilities,Financial position,326,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,105,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H32,Current liabilities,Financial position,139,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars (millions),H33,Other liabilities,Financial position,81,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars,H34,Total income per employee count,Financial ratios,"148,700",ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Dollars,H35,Surplus per employee count,Financial ratios,"13,800",ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Percentage,H36,Current ratio,Financial ratios,156,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Percentage,H37,Quick ratio,Financial ratios,75,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,47,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Percentage,H39,Return on equity,Financial ratios,41,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Percentage,H40,Return on total assets,Financial ratios,13,ANZSIC06 groups C134 and C135
+2019,Level 4,CC212,"Clothing, Knitted Products and Footwear Manufacturing",Percentage,H41,Liabilities structure,Financial ratios,32,ANZSIC06 groups C134 and C135
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H01,Total income,Financial performance,"2,165","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,249,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H03,Sales of other goods and services,Financial performance,"1,903","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,4,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H07,Non-operating income,Financial performance,8,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H08,Total expenditure,Financial performance,"2,092","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H09,Interest and donations,Financial performance,21,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H10,Indirect taxes,Financial performance,5,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H11,Depreciation,Financial performance,39,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H12,Salaries and wages paid,Financial performance,437,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,163,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"1,414","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H20,Non-operating expenses,Financial performance,12,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H21,Opening stocks,Financial performance,378,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H22,Closing stocks,Financial performance,405,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H23,Surplus before income tax,Financial performance,101,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H24,Total assets,Financial position,"1,453","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H25,Current assets,Financial position,897,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H26,Fixed tangible assets,Financial position,364,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H27,Additions to fixed assets,Financial position,55,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H28,Disposals of fixed assets,Financial position,22,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H29,Other assets,Financial position,192,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H30,Total equity and liabilities,Financial position,"1,453","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,589,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H32,Current liabilities,Financial position,588,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars (millions),H33,Other liabilities,Financial position,276,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars,H34,Total income per employee count,Financial ratios,"248,700","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Dollars,H35,Surplus per employee count,Financial ratios,"11,500","ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Percentage,H36,Current ratio,Financial ratios,153,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Percentage,H37,Quick ratio,Financial ratios,84,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,34,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Percentage,H39,Return on equity,Financial ratios,17,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Percentage,H40,Return on total assets,Financial ratios,7,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 3,CC21,"Textile, Leather, Clothing and Footwear Manufacturing",Percentage,H41,Liabilities structure,Financial ratios,41,"ANZSIC06 groups C131, C132, C133, C134, and C135"
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H01,Total income,Financial performance,"5,856",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,248,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"5,579",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,9,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,19,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"5,537",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,45,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,14,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,145,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,032",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,161,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"4,118",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,21,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,661,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,690,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,349,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H24,Total assets,Financial position,"4,039",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H25,Current assets,Financial position,"1,964",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,477",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,306,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,47,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H29,Other assets,Financial position,599,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"4,039",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,807",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"1,467",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,764,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"346,100",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"20,600",ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Percentage,H36,Current ratio,Financial ratios,134,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Percentage,H37,Quick ratio,Financial ratios,87,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,35,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Percentage,H39,Return on equity,Financial ratios,19,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 groups C141 and C149
+2019,Level 4,CC311,Wood Product Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,45,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H01,Total income,Financial performance,"5,856",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,248,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"5,579",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,9,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,19,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"5,537",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,45,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,14,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,145,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,032",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,161,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"4,118",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,21,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,661,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,690,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,349,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H24,Total assets,Financial position,"4,039",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H25,Current assets,Financial position,"1,964",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,477",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,306,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,47,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H29,Other assets,Financial position,599,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"4,039",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,807",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"1,467",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,764,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"346,100",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"20,600",ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Percentage,H36,Current ratio,Financial ratios,134,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Percentage,H37,Quick ratio,Financial ratios,87,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,35,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Percentage,H39,Return on equity,Financial ratios,19,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 groups C141 and C149
+2019,Level 3,CC31,Wood Product Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,45,ANZSIC06 groups C141 and C149
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H01,Total income,Financial performance,"3,533",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H03,Sales of other goods and services,Financial performance,"3,303",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H08,Total expenditure,Financial performance,"3,260",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H09,Interest and donations,Financial performance,13,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H10,Indirect taxes,Financial performance,8,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H11,Depreciation,Financial performance,169,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H12,Salaries and wages paid,Financial performance,439,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H13,Redundancy and severance,Financial performance,2,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,81,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"2,544",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H20,Non-operating expenses,Financial performance,7,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H21,Opening stocks,Financial performance,456,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H22,Closing stocks,Financial performance,537,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H23,Surplus before income tax,Financial performance,354,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H24,Total assets,Financial position,"4,185",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H25,Current assets,Financial position,"2,073",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H26,Fixed tangible assets,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H27,Additions to fixed assets,Financial position,114,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H28,Disposals of fixed assets,Financial position,20,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H29,Other assets,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H30,Total equity and liabilities,Financial position,"4,185",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H32,Current liabilities,Financial position,"1,017",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H33,Other liabilities,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars,H34,Total income per employee count,Financial ratios,"716,900",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars,H35,Surplus per employee count,Financial ratios,"71,900",ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H36,Current ratio,Financial ratios,204,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H37,Quick ratio,Financial ratios,151,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H39,Return on equity,Financial ratios,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 groups C151 and C152
+2019,Level 4,CC321,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H41,Liabilities structure,Financial ratios,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H01,Total income,Financial performance,"3,533",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H02,Sales of goods not further processed,Financial performance,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H03,Sales of other goods and services,Financial performance,"3,303",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H08,Total expenditure,Financial performance,"3,260",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H09,Interest and donations,Financial performance,13,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H10,Indirect taxes,Financial performance,8,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H11,Depreciation,Financial performance,169,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H12,Salaries and wages paid,Financial performance,439,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H13,Redundancy and severance,Financial performance,2,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,81,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"2,544",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H20,Non-operating expenses,Financial performance,7,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H21,Opening stocks,Financial performance,456,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H22,Closing stocks,Financial performance,537,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H23,Surplus before income tax,Financial performance,354,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H24,Total assets,Financial position,"4,185",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H25,Current assets,Financial position,"2,073",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H26,Fixed tangible assets,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H27,Additions to fixed assets,Financial position,114,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H28,Disposals of fixed assets,Financial position,20,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H29,Other assets,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H30,Total equity and liabilities,Financial position,"4,185",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H32,Current liabilities,Financial position,"1,017",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars (millions),H33,Other liabilities,Financial position,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars,H34,Total income per employee count,Financial ratios,"716,900",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Dollars,H35,Surplus per employee count,Financial ratios,"71,900",ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H36,Current ratio,Financial ratios,204,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H37,Quick ratio,Financial ratios,151,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H38,Margin on sales of goods for resale,Financial ratios,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H39,Return on equity,Financial ratios,C,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 groups C151 and C152
+2019,Level 3,CC32,"Pulp, Paper and Converted Paper Product Manufacturing",Percentage,H41,Liabilities structure,Financial ratios,C,ANZSIC06 groups C151 and C152
+2019,Level 4,CC411,Printing,Dollars (millions),H01,Total income,Financial performance,"1,570",ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,124,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"1,437",ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,4,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H07,Non-operating income,Financial performance,5,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H08,Total expenditure,Financial performance,"1,483",ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H09,Interest and donations,Financial performance,13,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H10,Indirect taxes,Financial performance,10,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H11,Depreciation,Financial performance,61,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H12,Salaries and wages paid,Financial performance,446,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,87,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,854,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H20,Non-operating expenses,Financial performance,12,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H21,Opening stocks,Financial performance,121,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H22,Closing stocks,Financial performance,125,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H23,Surplus before income tax,Financial performance,91,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H24,Total assets,Financial position,920,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H25,Current assets,Financial position,481,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H26,Fixed tangible assets,Financial position,284,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H27,Additions to fixed assets,Financial position,43,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H28,Disposals of fixed assets,Financial position,16,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H29,Other assets,Financial position,155,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H30,Total equity and liabilities,Financial position,920,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,177,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H32,Current liabilities,Financial position,463,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars (millions),H33,Other liabilities,Financial position,280,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars,H34,Total income per employee count,Financial ratios,"212,300",ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Dollars,H35,Surplus per employee count,Financial ratios,"12,300",ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Percentage,H36,Current ratio,Financial ratios,104,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Percentage,H37,Quick ratio,Financial ratios,77,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,30,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Percentage,H39,Return on equity,Financial ratios,52,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 groups C161 and C162
+2019,Level 4,CC411,Printing,Percentage,H41,Liabilities structure,Financial ratios,19,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H01,Total income,Financial performance,"1,570",ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,124,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"1,437",ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,4,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H07,Non-operating income,Financial performance,5,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H08,Total expenditure,Financial performance,"1,483",ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H09,Interest and donations,Financial performance,13,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H10,Indirect taxes,Financial performance,10,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H11,Depreciation,Financial performance,61,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H12,Salaries and wages paid,Financial performance,446,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,87,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,854,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H20,Non-operating expenses,Financial performance,12,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H21,Opening stocks,Financial performance,121,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H22,Closing stocks,Financial performance,125,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H23,Surplus before income tax,Financial performance,91,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H24,Total assets,Financial position,920,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H25,Current assets,Financial position,481,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H26,Fixed tangible assets,Financial position,284,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H27,Additions to fixed assets,Financial position,43,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H28,Disposals of fixed assets,Financial position,16,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H29,Other assets,Financial position,155,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H30,Total equity and liabilities,Financial position,920,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,177,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H32,Current liabilities,Financial position,463,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars (millions),H33,Other liabilities,Financial position,280,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars,H34,Total income per employee count,Financial ratios,"212,300",ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Dollars,H35,Surplus per employee count,Financial ratios,"12,300",ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Percentage,H36,Current ratio,Financial ratios,104,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Percentage,H37,Quick ratio,Financial ratios,77,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,30,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Percentage,H39,Return on equity,Financial ratios,52,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 groups C161 and C162
+2019,Level 3,CC41,Printing,Percentage,H41,Liabilities structure,Financial ratios,19,ANZSIC06 groups C161 and C162
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H01,Total income,Financial performance,"13,731",ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,C,ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"9,155",ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"12,993",ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,"2,411",ANZSIC06 group C170
+2019,Level 4,CC511,Petroleum and Coal Product Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,263,ANZSIC06 group C170

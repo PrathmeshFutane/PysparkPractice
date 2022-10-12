@@ -1,0 +1,500 @@
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,71,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"3,153","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,60,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,9,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,81,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,708,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,3,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,161,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H18,Other purchases and operating expenses,Financial performance,"2,097","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,36,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,433,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,431,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,160,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H24,Total assets,Financial position,"3,452","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H25,Current assets,Financial position,"1,602","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,340,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,106,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,41,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H29,Other assets,Financial position,"1,510","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"3,452","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,167","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"1,462","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,823,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"292,900","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"14,100","ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Percentage,H36,Current ratio,Financial ratios,110,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Percentage,H37,Quick ratio,Financial ratios,80,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,39,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Percentage,H39,Return on equity,Financial ratios,14,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Percentage,H40,Return on total assets,Financial ratios,5,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC821,Electronic and Electrical Equipment Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,34,"ANZSIC06 groups C241, C242, C243, and C244"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H01,Total income,Financial performance,"3,656","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,391,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"3,189","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,43,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,8,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,24,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"3,377","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,36,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,9,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,72,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,908,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,281,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H18,Other purchases and operating expenses,Financial performance,"2,012","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,59,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,449,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,469,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,298,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H24,Total assets,Financial position,"2,401","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H25,Current assets,Financial position,"1,483","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,516,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,123,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,53,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H29,Other assets,Financial position,402,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"2,401","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,919,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"1,075","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,407,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"242,800","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"19,800","ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Percentage,H36,Current ratio,Financial ratios,138,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Percentage,H37,Quick ratio,Financial ratios,94,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,28,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Percentage,H39,Return on equity,Financial ratios,32,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Percentage,H40,Return on total assets,Financial ratios,12,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 4,CC822,Machinery Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,38,"ANZSIC06 groups C245, C246, and C249"
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H01,Total income,Financial performance,"1,576",ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,132,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"1,433",ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,4,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,6,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"1,469",ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,23,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,6,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,31,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,384,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,96,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H18,Other purchases and operating expenses,Financial performance,921,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,8,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,202,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,204,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,109,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H24,Total assets,Financial position,962,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H25,Current assets,Financial position,529,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,227,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,50,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,26,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H29,Other assets,Financial position,207,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,962,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,284,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,464,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,215,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"199,100",ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"13,700",ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Percentage,H36,Current ratio,Financial ratios,114,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Percentage,H37,Quick ratio,Financial ratios,70,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,28,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Percentage,H39,Return on equity,Financial ratios,38,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Percentage,H40,Return on total assets,Financial ratios,11,ANZSIC06 groups C251 and C259
+2013,Level 3,CC91,Furniture and Other Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,29,ANZSIC06 groups C251 and C259
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H01,Total income,Financial performance,"1,025",ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,80,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,940,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,2,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,3,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,972,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,16,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,4,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,21,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,264,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,61,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H18,Other purchases and operating expenses,Financial performance,600,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,5,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,98,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,99,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,55,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H24,Total assets,Financial position,621,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H25,Current assets,Financial position,306,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,153,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,29,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,18,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H29,Other assets,Financial position,162,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,621,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,153,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,327,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,140,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"191,600",ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"10,200",ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Percentage,H36,Current ratio,Financial ratios,94,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Percentage,H37,Quick ratio,Financial ratios,63,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,24,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Percentage,H39,Return on equity,Financial ratios,36,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 group C251
+2013,Level 4,CC911,Furniture Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,25,ANZSIC06 group C251
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H01,Total income,Financial performance,550,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,52,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,493,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,1,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,3,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,497,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,7,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,2,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,10,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,120,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,35,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H18,Other purchases and operating expenses,Financial performance,321,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,2,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,105,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,105,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,54,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H24,Total assets,Financial position,342,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H25,Current assets,Financial position,223,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,74,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,22,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,8,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H29,Other assets,Financial position,45,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,342,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,130,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,137,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,74,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"214,800",ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"21,100",ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Percentage,H36,Current ratio,Financial ratios,163,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Percentage,H37,Quick ratio,Financial ratios,86,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,33,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Percentage,H39,Return on equity,Financial ratios,42,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Percentage,H40,Return on total assets,Financial ratios,16,ANZSIC06 group C259
+2013,Level 4,CC912,Other Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,38,ANZSIC06 group C259
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H01,Total income,Financial performance,"18,414",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"17,659",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,203,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H08,Total expenditure,Financial performance,"15,801",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H09,Interest and donations,Financial performance,"1,036",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H10,Indirect taxes,Financial performance,60,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H11,Depreciation,Financial performance,"1,684",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,113",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H13,Redundancy and severance,Financial performance,5,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"11,484",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H20,Non-operating expenses,Financial performance,424,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H21,Opening stocks,Financial performance,363,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H22,Closing stocks,Financial performance,369,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"2,620",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H24,Total assets,Financial position,"62,132",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H25,Current assets,Financial position,"6,080",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"49,459",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H27,Additions to fixed assets,Financial position,"2,993",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,684,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H29,Other assets,Financial position,"6,592",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"62,132",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"33,069",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H32,Current liabilities,Financial position,"8,731",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars (millions),H33,Other liabilities,Financial position,"20,332",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars,H34,Total income per employee count,Financial ratios,"1,227,400",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Dollars,H35,Surplus per employee count,Financial ratios,"174,600",ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Percentage,H36,Current ratio,Financial ratios,70,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Percentage,H37,Quick ratio,Financial ratios,65,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Percentage,H39,Return on equity,Financial ratios,8,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division D
+2013,Level 1,DD,"Electricity, Gas, Water and Waste Services",Percentage,H41,Liabilities structure,Financial ratios,53,ANZSIC06 division D
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H01,Total income,Financial performance,"16,339","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H04,Sales of goods and services,Financial performance,"15,852","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H07,Non-operating income,Financial performance,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H08,Total expenditure,Financial performance,"14,085","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H09,Interest and donations,Financial performance,926,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H10,Indirect taxes,Financial performance,39,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H11,Depreciation,Financial performance,"1,401","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H12,Salaries and wages paid,Financial performance,785,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H13,Redundancy and severance,Financial performance,4,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"10,600","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H20,Non-operating expenses,Financial performance,334,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H21,Opening stocks,Financial performance,352,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H22,Closing stocks,Financial performance,355,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H23,Surplus before income tax,Financial performance,"2,258","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H24,Total assets,Financial position,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H25,Current assets,Financial position,"5,463","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H26,Fixed tangible assets,Financial position,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H27,Additions to fixed assets,Financial position,"2,530","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H28,Disposals of fixed assets,Financial position,636,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H29,Other assets,Financial position,"6,088","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H30,Total equity and liabilities,Financial position,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H32,Current liabilities,Financial position,"7,729","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars (millions),H33,Other liabilities,Financial position,"17,934","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars,H34,Total income per employee count,Financial ratios,"1,770,100","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Dollars,H35,Surplus per employee count,Financial ratios,"244,600","ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Percentage,H36,Current ratio,Financial ratios,71,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Percentage,H37,Quick ratio,Financial ratios,66,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Percentage,H39,Return on equity,Financial ratios,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Percentage,H40,Return on total assets,Financial ratios,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD11,Electricity and Gas Supply,Percentage,H41,Liabilities structure,Financial ratios,C,"ANZSIC06 groups D261, D262, D263, D264, and D270"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H01,Total income,Financial performance,"2,075","ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"1,807","ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H07,Non-operating income,Financial performance,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H08,Total expenditure,Financial performance,"1,716","ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H09,Interest and donations,Financial performance,110,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H10,Indirect taxes,Financial performance,22,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H11,Depreciation,Financial performance,283,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,327,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H13,Redundancy and severance,Financial performance,1,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,884,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H20,Non-operating expenses,Financial performance,90,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H21,Opening stocks,Financial performance,11,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H22,Closing stocks,Financial performance,14,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H23,Surplus before income tax,Financial performance,362,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H24,Total assets,Financial position,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H25,Current assets,Financial position,617,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H26,Fixed tangible assets,Financial position,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H27,Additions to fixed assets,Financial position,464,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,48,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H29,Other assets,Financial position,504,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H30,Total equity and liabilities,Financial position,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H32,Current liabilities,Financial position,"1,002","ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars (millions),H33,Other liabilities,Financial position,"2,399","ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars,H34,Total income per employee count,Financial ratios,"359,500","ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Dollars,H35,Surplus per employee count,Financial ratios,"62,700","ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Percentage,H36,Current ratio,Financial ratios,62,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Percentage,H37,Quick ratio,Financial ratios,60,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Percentage,H39,Return on equity,Financial ratios,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Percentage,H40,Return on total assets,Financial ratios,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 3,DD12,"Water, Sewerage, Drainage and Waste Services",Percentage,H41,Liabilities structure,Financial ratios,C,"ANZSIC06 groups D281, D291, and D292"
+2013,Level 1,EE,Construction,Dollars (millions),H01,Total income,Financial performance,"36,877",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H04,Sales of goods and services,Financial performance,"36,540",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,202,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,2,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H07,Non-operating income,Financial performance,133,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H08,Total expenditure,Financial performance,"34,776",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H09,Interest and donations,Financial performance,411,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H10,Indirect taxes,Financial performance,183,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H11,Depreciation,Financial performance,743,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H12,Salaries and wages paid,Financial performance,"7,712",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H13,Redundancy and severance,Financial performance,15,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"25,454",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H20,Non-operating expenses,Financial performance,273,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H21,Opening stocks,Financial performance,"3,292",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H22,Closing stocks,Financial performance,"3,255",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H23,Surplus before income tax,Financial performance,"2,063",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H24,Total assets,Financial position,"22,315",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H25,Current assets,Financial position,"12,588",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H26,Fixed tangible assets,Financial position,"5,847",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H27,Additions to fixed assets,Financial position,"1,804",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H28,Disposals of fixed assets,Financial position,648,ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H29,Other assets,Financial position,"3,881",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H30,Total equity and liabilities,Financial position,"22,315",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"7,033",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H32,Current liabilities,Financial position,"10,010",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars (millions),H33,Other liabilities,Financial position,"5,272",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars,H34,Total income per employee count,Financial ratios,"302,700",ANZSIC06 division E
+2013,Level 1,EE,Construction,Dollars,H35,Surplus per employee count,Financial ratios,"16,900",ANZSIC06 division E
+2013,Level 1,EE,Construction,Percentage,H36,Current ratio,Financial ratios,126,ANZSIC06 division E
+2013,Level 1,EE,Construction,Percentage,H37,Quick ratio,Financial ratios,93,ANZSIC06 division E
+2013,Level 1,EE,Construction,Percentage,H39,Return on equity,Financial ratios,29,ANZSIC06 division E
+2013,Level 1,EE,Construction,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 division E
+2013,Level 1,EE,Construction,Percentage,H41,Liabilities structure,Financial ratios,32,ANZSIC06 division E
+2013,Level 3,EE11,Building Construction,Dollars (millions),H01,Total income,Financial performance,"12,572",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H04,Sales of goods and services,Financial performance,"12,422",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,104,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H07,Non-operating income,Financial performance,44,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H08,Total expenditure,Financial performance,"11,940",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H09,Interest and donations,Financial performance,114,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H10,Indirect taxes,Financial performance,32,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H11,Depreciation,Financial performance,109,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,701",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"9,952",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H20,Non-operating expenses,Financial performance,32,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H21,Opening stocks,Financial performance,"1,631",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H22,Closing stocks,Financial performance,"1,627",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H23,Surplus before income tax,Financial performance,627,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H24,Total assets,Financial position,"7,217",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H25,Current assets,Financial position,"4,429",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,166",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H27,Additions to fixed assets,Financial position,370,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H28,Disposals of fixed assets,Financial position,175,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H29,Other assets,Financial position,"1,622",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H30,Total equity and liabilities,Financial position,"7,217",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,354",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H32,Current liabilities,Financial position,"3,460",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars (millions),H33,Other liabilities,Financial position,"1,403",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars,H34,Total income per employee count,Financial ratios,"511,000",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Dollars,H35,Surplus per employee count,Financial ratios,"25,500",ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Percentage,H36,Current ratio,Financial ratios,128,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Percentage,H37,Quick ratio,Financial ratios,81,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Percentage,H39,Return on equity,Financial ratios,27,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 groups E301 and E302
+2013,Level 3,EE11,Building Construction,Percentage,H41,Liabilities structure,Financial ratios,33,ANZSIC06 groups E301 and E302
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H01,Total income,Financial performance,"7,337",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H04,Sales of goods and services,Financial performance,"7,278",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,30,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H07,Non-operating income,Financial performance,28,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H08,Total expenditure,Financial performance,"6,882",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H09,Interest and donations,Financial performance,81,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H10,Indirect taxes,Financial performance,23,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H11,Depreciation,Financial performance,80,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,077",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"5,604",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H20,Non-operating expenses,Financial performance,17,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H21,Opening stocks,Financial performance,"1,176",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H22,Closing stocks,Financial performance,"1,191",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H23,Surplus before income tax,Financial performance,470,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H24,Total assets,Financial position,"4,070",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H25,Current assets,Financial position,"2,805",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H26,Fixed tangible assets,Financial position,796,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H27,Additions to fixed assets,Financial position,251,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H28,Disposals of fixed assets,Financial position,112,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H29,Other assets,Financial position,469,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H30,Total equity and liabilities,Financial position,"4,070",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,970,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H32,Current liabilities,Financial position,"2,118",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars (millions),H33,Other liabilities,Financial position,983,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars,H34,Total income per employee count,Financial ratios,"476,100",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Dollars,H35,Surplus per employee count,Financial ratios,"30,500",ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Percentage,H36,Current ratio,Financial ratios,132,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Percentage,H37,Quick ratio,Financial ratios,76,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Percentage,H39,Return on equity,Financial ratios,49,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Percentage,H40,Return on total assets,Financial ratios,12,ANZSIC06 group E301
+2013,Level 4,EE112,Residential Building Construction,Percentage,H41,Liabilities structure,Financial ratios,24,ANZSIC06 group E301
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H01,Total income,Financial performance,"5,235",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H04,Sales of goods and services,Financial performance,"5,144",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,75,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H07,Non-operating income,Financial performance,16,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H08,Total expenditure,Financial performance,"5,058",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H09,Interest and donations,Financial performance,32,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H10,Indirect taxes,Financial performance,9,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H11,Depreciation,Financial performance,29,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H12,Salaries and wages paid,Financial performance,624,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"4,348",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H20,Non-operating expenses,Financial performance,15,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H21,Opening stocks,Financial performance,455,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H22,Closing stocks,Financial performance,435,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H23,Surplus before income tax,Financial performance,157,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H24,Total assets,Financial position,"3,147",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H25,Current assets,Financial position,"1,624",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H26,Fixed tangible assets,Financial position,369,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H27,Additions to fixed assets,Financial position,119,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H28,Disposals of fixed assets,Financial position,63,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H29,Other assets,Financial position,"1,153",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H30,Total equity and liabilities,Financial position,"3,147",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,385",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H32,Current liabilities,Financial position,"1,342",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars (millions),H33,Other liabilities,Financial position,420,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars,H34,Total income per employee count,Financial ratios,"569,600",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Dollars,H35,Surplus per employee count,Financial ratios,"17,100",ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Percentage,H36,Current ratio,Financial ratios,121,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Percentage,H37,Quick ratio,Financial ratios,89,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Percentage,H39,Return on equity,Financial ratios,11,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Percentage,H40,Return on total assets,Financial ratios,5,ANZSIC06 group E302
+2013,Level 4,EE113,Non-Residential Building Construction,Percentage,H41,Liabilities structure,Financial ratios,44,ANZSIC06 group E302
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H01,Total income,Financial performance,"9,747",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H04,Sales of goods and services,Financial performance,"9,700",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,28,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H07,Non-operating income,Financial performance,19,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H08,Total expenditure,Financial performance,"9,297",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H09,Interest and donations,Financial performance,67,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H10,Indirect taxes,Financial performance,49,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H11,Depreciation,Financial performance,240,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,121",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H13,Redundancy and severance,Financial performance,5,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"6,802",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H20,Non-operating expenses,Financial performance,17,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H21,Opening stocks,Financial performance,167,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H22,Closing stocks,Financial performance,167,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H23,Surplus before income tax,Financial performance,450,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H24,Total assets,Financial position,"4,859",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H25,Current assets,Financial position,"2,631",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,445",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H27,Additions to fixed assets,Financial position,442,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H28,Disposals of fixed assets,Financial position,117,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H29,Other assets,Financial position,784,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H30,Total equity and liabilities,Financial position,"4,859",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,862",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H32,Current liabilities,Financial position,"2,130",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars (millions),H33,Other liabilities,Financial position,867,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars,H34,Total income per employee count,Financial ratios,"313,800",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Dollars,H35,Surplus per employee count,Financial ratios,"14,500",ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Percentage,H36,Current ratio,Financial ratios,124,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Percentage,H37,Quick ratio,Financial ratios,116,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Percentage,H39,Return on equity,Financial ratios,24,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 group E310
+2013,Level 3,EE12,Heavy and Civil Engineering Construction,Percentage,H41,Liabilities structure,Financial ratios,38,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H01,Total income,Financial performance,"9,747",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H04,Sales of goods and services,Financial performance,"9,700",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,28,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H07,Non-operating income,Financial performance,19,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H08,Total expenditure,Financial performance,"9,297",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H09,Interest and donations,Financial performance,67,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H10,Indirect taxes,Financial performance,49,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H11,Depreciation,Financial performance,240,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,121",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H13,Redundancy and severance,Financial performance,5,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"6,802",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H20,Non-operating expenses,Financial performance,17,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H21,Opening stocks,Financial performance,167,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H22,Closing stocks,Financial performance,167,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H23,Surplus before income tax,Financial performance,450,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H24,Total assets,Financial position,"4,859",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H25,Current assets,Financial position,"2,631",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,445",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H27,Additions to fixed assets,Financial position,442,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H28,Disposals of fixed assets,Financial position,117,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H29,Other assets,Financial position,784,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H30,Total equity and liabilities,Financial position,"4,859",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,862",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H32,Current liabilities,Financial position,"2,130",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars (millions),H33,Other liabilities,Financial position,867,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars,H34,Total income per employee count,Financial ratios,"313,800",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Dollars,H35,Surplus per employee count,Financial ratios,"14,500",ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Percentage,H36,Current ratio,Financial ratios,124,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Percentage,H37,Quick ratio,Financial ratios,116,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Percentage,H39,Return on equity,Financial ratios,24,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Percentage,H40,Return on total assets,Financial ratios,9,ANZSIC06 group E310
+2013,Level 4,EE121,Heavy and Civil Engineering Construction,Percentage,H41,Liabilities structure,Financial ratios,38,ANZSIC06 group E310
+2013,Level 3,EE13,Construction Services,Dollars (millions),H01,Total income,Financial performance,"14,559","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"14,418","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,70,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H07,Non-operating income,Financial performance,70,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H08,Total expenditure,Financial performance,"13,539","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H09,Interest and donations,Financial performance,230,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H10,Indirect taxes,Financial performance,102,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H11,Depreciation,Financial performance,393,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"3,890","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H13,Redundancy and severance,Financial performance,10,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"8,700","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H20,Non-operating expenses,Financial performance,224,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H21,Opening stocks,Financial performance,"1,495","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H22,Closing stocks,Financial performance,"1,461","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H23,Surplus before income tax,Financial performance,986,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H24,Total assets,Financial position,"10,239","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H25,Current assets,Financial position,"5,528","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"3,236","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H27,Additions to fixed assets,Financial position,992,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,357,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H29,Other assets,Financial position,"1,475","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"10,239","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,816","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H32,Current liabilities,Financial position,"4,420","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars (millions),H33,Other liabilities,Financial position,"3,002","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars,H34,Total income per employee count,Financial ratios,"220,100","ANZSIC06 groups E321, E322, E323, E324, and E329"
+2013,Level 3,EE13,Construction Services,Dollars,H35,Surplus per employee count,Financial ratios,"14,900","ANZSIC06 groups E321, E322, E323, E324, and E329"

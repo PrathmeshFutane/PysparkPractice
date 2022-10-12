@@ -1,0 +1,500 @@
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,108",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H24,Total assets,Financial position,"4,707",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H25,Current assets,Financial position,"1,648",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,817",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H27,Additions to fixed assets,Financial position,422,ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,246,ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H29,Other assets,Financial position,"1,242",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"4,707",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,131",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H32,Current liabilities,Financial position,"1,462",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars (millions),H33,Other liabilities,Financial position,"1,115",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars,H34,Total income per employee count,Financial ratios,"454,400",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Dollars,H35,Surplus per employee count,Financial ratios,"97,700",ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Percentage,H36,Current ratio,Financial ratios,113,ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Percentage,H37,Quick ratio,Financial ratios,110,ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Percentage,H39,Return on equity,Financial ratios,52,ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Percentage,H40,Return on total assets,Financial ratios,24,ANZSIC06 group L672
+2020,Level 4,LL123,Real Estate Services,Percentage,H41,Liabilities structure,Financial ratios,45,ANZSIC06 group L672
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H01,Total income,Financial performance,"28,639","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"23,506","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"1,286","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,16,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H07,Non-operating income,Financial performance,"3,830","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H08,Total expenditure,Financial performance,"18,157","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H09,Interest and donations,Financial performance,"3,704","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H10,Indirect taxes,Financial performance,737,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H11,Depreciation,Financial performance,"1,303","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,757","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H13,Redundancy and severance,Financial performance,3,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,"1,197","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"8,229","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H20,Non-operating expenses,Financial performance,"1,229","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H21,Opening stocks,Financial performance,"3,071","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H22,Closing stocks,Financial performance,"3,210","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"10,621","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H24,Total assets,Financial position,"272,598","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H25,Current assets,Financial position,"33,314","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"203,038","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H27,Additions to fixed assets,Financial position,"23,664","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,"11,693","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H29,Other assets,Financial position,"36,246","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"272,598","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"127,789","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H32,Current liabilities,Financial position,"52,197","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H33,Other liabilities,Financial position,"92,612","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars,H34,Total income per employee count,Financial ratios,"1,604,800","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Dollars,H35,Surplus per employee count,Financial ratios,"595,100","ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H36,Current ratio,Financial ratios,64,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H37,Quick ratio,Financial ratios,58,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H39,Return on equity,Financial ratios,8,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H40,Return on total assets,Financial ratios,4,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 3,LL12,Property Operators and Real Estate Services,Percentage,H41,Liabilities structure,Financial ratios,47,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H01,Total income,Financial performance,"35,812",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"30,267",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"1,550",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,40,ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H07,Non-operating income,Financial performance,"3,955",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H08,Total expenditure,Financial performance,"24,468",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H09,Interest and donations,Financial performance,"4,159",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H10,Indirect taxes,Financial performance,809,ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H11,Depreciation,Financial performance,"2,832",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,750",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H13,Redundancy and severance,Financial performance,5,ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,"1,198",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"11,166",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H20,Non-operating expenses,Financial performance,"1,554",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H21,Opening stocks,Financial performance,"3,343",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H22,Closing stocks,Financial performance,"3,511",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"11,511",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H24,Total assets,Financial position,"301,288",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H25,Current assets,Financial position,"39,308",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"217,314",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H27,Additions to fixed assets,Financial position,"27,181",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,"12,866",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H29,Other assets,Financial position,"44,666",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"301,288",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"137,894",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H32,Current liabilities,Financial position,"59,938",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H33,Other liabilities,Financial position,"103,455",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars,H34,Total income per employee count,Financial ratios,"1,092,000",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars,H35,Surplus per employee count,Financial ratios,"351,000",ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H36,Current ratio,Financial ratios,66,ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H37,Quick ratio,Financial ratios,60,ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H39,Return on equity,Financial ratios,8,ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division L
+2020,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H41,Liabilities structure,Financial ratios,46,ANZSIC06 division L
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H01,Total income,Financial performance,"11,342",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"11,094",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,121,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,88,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H07,Non-operating income,Financial performance,39,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H08,Total expenditure,Financial performance,"10,037",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H09,Interest and donations,Financial performance,115,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H10,Indirect taxes,Financial performance,32,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H11,Depreciation,Financial performance,301,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"4,457",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H13,Redundancy and severance,Financial performance,5,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"5,060",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H20,Non-operating expenses,Financial performance,72,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H21,Opening stocks,Financial performance,313,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H22,Closing stocks,Financial performance,339,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"1,331",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H24,Total assets,Financial position,"7,546",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H25,Current assets,Financial position,"4,188",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"1,217",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H27,Additions to fixed assets,Financial position,389,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,141,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H29,Other assets,Financial position,"2,141",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"7,546",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,694",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H32,Current liabilities,Financial position,"2,918",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars (millions),H33,Other liabilities,Financial position,"1,934",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars,H34,Total income per employee count,Financial ratios,"250,100",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Dollars,H35,Surplus per employee count,Financial ratios,"29,400",ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Percentage,H36,Current ratio,Financial ratios,143,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Percentage,H37,Quick ratio,Financial ratios,132,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Percentage,H39,Return on equity,Financial ratios,49,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Percentage,H40,Return on total assets,Financial ratios,18,ANZSIC06 groups M691 and M692
+2020,Level 4,MN111,"Scientific, Architectural and Engineering Services",Percentage,H41,Liabilities structure,Financial ratios,36,ANZSIC06 groups M691 and M692
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H01,Total income,Financial performance,"7,331",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"7,269",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,20,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,12,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H07,Non-operating income,Financial performance,29,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H08,Total expenditure,Financial performance,"5,327",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H09,Interest and donations,Financial performance,86,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H10,Indirect taxes,Financial performance,17,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H11,Depreciation,Financial performance,155,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,913",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H13,Redundancy and severance,Financial performance,2,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,091",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H20,Non-operating expenses,Financial performance,64,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H21,Opening stocks,Financial performance,109,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H22,Closing stocks,Financial performance,114,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"2,010",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H24,Total assets,Financial position,"3,991",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H25,Current assets,Financial position,"2,204",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H26,Fixed tangible assets,Financial position,683,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H27,Additions to fixed assets,Financial position,201,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,122,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H29,Other assets,Financial position,"1,105",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"3,991",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,479",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H32,Current liabilities,Financial position,"1,603",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars (millions),H33,Other liabilities,Financial position,909,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars,H34,Total income per employee count,Financial ratios,"210,400",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Dollars,H35,Surplus per employee count,Financial ratios,"57,700",ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Percentage,H36,Current ratio,Financial ratios,137,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Percentage,H37,Quick ratio,Financial ratios,130,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Percentage,H39,Return on equity,Financial ratios,136,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Percentage,H40,Return on total assets,Financial ratios,50,ANZSIC06 group M693
+2020,Level 4,MN112,Legal and Accounting Services,Percentage,H41,Liabilities structure,Financial ratios,37,ANZSIC06 group M693
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H01,Total income,Financial performance,"15,038","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"11,251","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"3,029","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,80,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H07,Non-operating income,Financial performance,678,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H08,Total expenditure,Financial performance,"11,688","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H09,Interest and donations,Financial performance,586,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H10,Indirect taxes,Financial performance,35,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H11,Depreciation,Financial performance,454,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"4,278","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H13,Redundancy and severance,Financial performance,19,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"6,108","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H20,Non-operating expenses,Financial performance,226,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H21,Opening stocks,Financial performance,186,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H22,Closing stocks,Financial performance,252,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"3,416","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H24,Total assets,Financial position,"53,887","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H25,Current assets,Financial position,"26,717","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"3,170","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H27,Additions to fixed assets,Financial position,905,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,475,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H29,Other assets,Financial position,"24,000","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"53,887","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"12,956","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H32,Current liabilities,Financial position,"28,783","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars (millions),H33,Other liabilities,Financial position,"12,148","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars,H34,Total income per employee count,Financial ratios,"405,800","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Dollars,H35,Surplus per employee count,Financial ratios,"92,200","ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Percentage,H36,Current ratio,Financial ratios,93,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Percentage,H37,Quick ratio,Financial ratios,92,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Percentage,H39,Return on equity,Financial ratios,26,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Percentage,H40,Return on total assets,Financial ratios,6,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN113,"Advertising, Market Research and Management Services",Percentage,H41,Liabilities structure,Financial ratios,24,"ANZSIC06 groups M694, M695, and M696"
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H01,Total income,Financial performance,"1,809",ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"1,782",ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,8,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,12,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H07,Non-operating income,Financial performance,6,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H08,Total expenditure,Financial performance,"1,612",ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H09,Interest and donations,Financial performance,18,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H10,Indirect taxes,Financial performance,6,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H11,Depreciation,Financial performance,54,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,575,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,951,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H20,Non-operating expenses,Financial performance,8,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H21,Opening stocks,Financial performance,95,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H22,Closing stocks,Financial performance,100,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H23,Surplus before income tax,Financial performance,202,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H24,Total assets,Financial position,"1,285",ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H25,Current assets,Financial position,589,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H26,Fixed tangible assets,Financial position,405,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H27,Additions to fixed assets,Financial position,109,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,38,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H29,Other assets,Financial position,291,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"1,285",ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,498,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H32,Current liabilities,Financial position,474,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars (millions),H33,Other liabilities,Financial position,313,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars,H34,Total income per employee count,Financial ratios,"213,500",ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Dollars,H35,Surplus per employee count,Financial ratios,"23,800",ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Percentage,H36,Current ratio,Financial ratios,124,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Percentage,H37,Quick ratio,Financial ratios,103,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Percentage,H39,Return on equity,Financial ratios,41,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Percentage,H40,Return on total assets,Financial ratios,16,ANZSIC06 groups M697 and M699
+2020,Level 4,MN114,Veterinary and Other Professional Services,Percentage,H41,Liabilities structure,Financial ratios,39,ANZSIC06 groups M697 and M699
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H01,Total income,Financial performance,"11,120",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"10,832",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,69,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,83,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H07,Non-operating income,Financial performance,136,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H08,Total expenditure,Financial performance,"10,075",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H09,Interest and donations,Financial performance,59,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H10,Indirect taxes,Financial performance,24,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H11,Depreciation,Financial performance,404,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"4,294",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H13,Redundancy and severance,Financial performance,12,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"5,098",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H20,Non-operating expenses,Financial performance,197,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H21,Opening stocks,Financial performance,78,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H22,Closing stocks,Financial performance,95,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,062",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H24,Total assets,Financial position,"8,133",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H25,Current assets,Financial position,"4,815",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H26,Fixed tangible assets,Financial position,690,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H27,Additions to fixed assets,Financial position,272,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,56,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H29,Other assets,Financial position,"2,628",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"8,133",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"3,372",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H32,Current liabilities,Financial position,"3,186",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars (millions),H33,Other liabilities,Financial position,"1,575",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars,H34,Total income per employee count,Financial ratios,"310,000",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Dollars,H35,Surplus per employee count,Financial ratios,"29,600",ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Percentage,H36,Current ratio,Financial ratios,151,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Percentage,H37,Quick ratio,Financial ratios,148,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Percentage,H39,Return on equity,Financial ratios,31,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Percentage,H40,Return on total assets,Financial ratios,13,ANZSIC06 group M700
+2020,Level 4,MN115,Computer System Design and Related Services,Percentage,H41,Liabilities structure,Financial ratios,41,ANZSIC06 group M700
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H01,Total income,Financial performance,"46,640",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"42,228",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"3,248",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,276,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H07,Non-operating income,Financial performance,888,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H08,Total expenditure,Financial performance,"38,739",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H09,Interest and donations,Financial performance,864,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H10,Indirect taxes,Financial performance,114,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H11,Depreciation,Financial performance,"1,369",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"16,517",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H13,Redundancy and severance,Financial performance,39,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"19,308",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H20,Non-operating expenses,Financial performance,567,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H21,Opening stocks,Financial performance,781,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H22,Closing stocks,Financial performance,900,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"8,020",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H24,Total assets,Financial position,"74,842",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H25,Current assets,Financial position,"38,513",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"6,165",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H27,Additions to fixed assets,Financial position,"1,876",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,832,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H29,Other assets,Financial position,"30,165",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"74,842",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"20,999",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H32,Current liabilities,Financial position,"36,964",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars (millions),H33,Other liabilities,Financial position,"16,879",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars,H34,Total income per employee count,Financial ratios,"288,600",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Dollars,H35,Surplus per employee count,Financial ratios,"49,600",ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Percentage,H36,Current ratio,Financial ratios,104,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Percentage,H37,Quick ratio,Financial ratios,102,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Percentage,H39,Return on equity,Financial ratios,38,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Percentage,H40,Return on total assets,Financial ratios,11,ANZSIC06 division M
+2020,Level 3,MN11,"Professional, Scientific and Technical Services",Percentage,H41,Liabilities structure,Financial ratios,28,ANZSIC06 division M
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H01,Total income,Financial performance,"1,039",ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H04,Sales of goods and services,Financial performance,998,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,9,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,21,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H07,Non-operating income,Financial performance,10,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H08,Total expenditure,Financial performance,"1,070",ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H09,Interest and donations,Financial performance,12,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H10,Indirect taxes,Financial performance,3,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H11,Depreciation,Financial performance,62,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,447,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H13,Redundancy and severance,Financial performance,2,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,507,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H20,Non-operating expenses,Financial performance,38,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H21,Opening stocks,Financial performance,4,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H22,Closing stocks,Financial performance,2,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H23,Surplus before income tax,Financial performance,-33,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H24,Total assets,Financial position,"1,605",ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H25,Current assets,Financial position,914,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H26,Fixed tangible assets,Financial position,200,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H27,Additions to fixed assets,Financial position,71,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,21,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H29,Other assets,Financial position,490,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"1,605",ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,438,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H32,Current liabilities,Financial position,869,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars (millions),H33,Other liabilities,Financial position,297,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars,H34,Total income per employee count,Financial ratios,"131,800",ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Dollars,H35,Surplus per employee count,Financial ratios,"-4,200",ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Percentage,H36,Current ratio,Financial ratios,105,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Percentage,H37,Quick ratio,Financial ratios,105,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Percentage,H39,Return on equity,Financial ratios,-8,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Percentage,H40,Return on total assets,Financial ratios,-2,ANZSIC06 group N722
+2020,Level 4,MN211,Travel Agency and Tour Arrangement Services,Percentage,H41,Liabilities structure,Financial ratios,27,ANZSIC06 group N722
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H01,Total income,Financial performance,"7,875",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"7,461",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,188,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,108,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H07,Non-operating income,Financial performance,118,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H08,Total expenditure,Financial performance,"7,317",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H09,Interest and donations,Financial performance,67,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H10,Indirect taxes,Financial performance,20,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H11,Depreciation,Financial performance,159,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"2,611",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H13,Redundancy and severance,Financial performance,3,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"4,345",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H20,Non-operating expenses,Financial performance,115,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H21,Opening stocks,Financial performance,76,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H22,Closing stocks,Financial performance,79,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H23,Surplus before income tax,Financial performance,562,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H24,Total assets,Financial position,"7,419",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H25,Current assets,Financial position,"3,202",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"1,754",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H27,Additions to fixed assets,Financial position,512,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,271,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H29,Other assets,Financial position,"2,462",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"7,419",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"3,615",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H32,Current liabilities,Financial position,"2,335",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars (millions),H33,Other liabilities,Financial position,"1,469",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars,H34,Total income per employee count,Financial ratios,"107,700",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Dollars,H35,Surplus per employee count,Financial ratios,"7,700",ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Percentage,H36,Current ratio,Financial ratios,137,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Percentage,H37,Quick ratio,Financial ratios,134,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Percentage,H39,Return on equity,Financial ratios,16,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 groups N721 and N729
+2020,Level 4,MN212,Employment and Other Administrative Services,Percentage,H41,Liabilities structure,Financial ratios,49,ANZSIC06 groups N721 and N729
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H01,Total income,Financial performance,"4,402",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"4,323",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,10,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,46,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H07,Non-operating income,Financial performance,22,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H08,Total expenditure,Financial performance,"4,061",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H09,Interest and donations,Financial performance,57,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H10,Indirect taxes,Financial performance,13,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H11,Depreciation,Financial performance,187,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,579",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,203",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H20,Non-operating expenses,Financial performance,22,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H21,Opening stocks,Financial performance,114,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H22,Closing stocks,Financial performance,100,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H23,Surplus before income tax,Financial performance,327,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H24,Total assets,Financial position,"3,334",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H25,Current assets,Financial position,"1,225",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"1,463",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H27,Additions to fixed assets,Financial position,351,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,98,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H29,Other assets,Financial position,646,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"3,334",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,266",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H32,Current liabilities,Financial position,"1,151",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars (millions),H33,Other liabilities,Financial position,917,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars,H34,Total income per employee count,Financial ratios,"103,400",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Dollars,H35,Surplus per employee count,Financial ratios,"7,700",ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Percentage,H36,Current ratio,Financial ratios,106,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Percentage,H37,Quick ratio,Financial ratios,98,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Percentage,H39,Return on equity,Financial ratios,26,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 groups N731 and N732
+2020,Level 4,MN213,"Building Cleaning, Pest Control and Other Support Services",Percentage,H41,Liabilities structure,Financial ratios,38,ANZSIC06 groups N731 and N732
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H01,Total income,Financial performance,"13,316",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H04,Sales of goods and services,Financial performance,"12,783",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,207,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,175,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H07,Non-operating income,Financial performance,150,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H08,Total expenditure,Financial performance,"12,447",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H09,Interest and donations,Financial performance,136,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H10,Indirect taxes,Financial performance,36,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H11,Depreciation,Financial performance,408,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,"4,636",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H13,Redundancy and severance,Financial performance,6,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"7,055",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H20,Non-operating expenses,Financial performance,175,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H21,Opening stocks,Financial performance,193,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H22,Closing stocks,Financial performance,181,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H23,Surplus before income tax,Financial performance,855,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H24,Total assets,Financial position,"12,358",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H25,Current assets,Financial position,"5,342",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H26,Fixed tangible assets,Financial position,"3,417",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H27,Additions to fixed assets,Financial position,933,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,391,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H29,Other assets,Financial position,"3,599",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H30,Total equity and liabilities,Financial position,"12,358",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"5,319",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H32,Current liabilities,Financial position,"4,355",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars (millions),H33,Other liabilities,Financial position,"2,683",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars,H34,Total income per employee count,Financial ratios,"107,800",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Dollars,H35,Surplus per employee count,Financial ratios,"6,900",ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Percentage,H36,Current ratio,Financial ratios,123,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Percentage,H37,Quick ratio,Financial ratios,119,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Percentage,H39,Return on equity,Financial ratios,16,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 division N
+2020,Level 3,MN21,Administrative and Support Services,Percentage,H41,Liabilities structure,Financial ratios,43,ANZSIC06 division N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H01,Total income,Financial performance,"59,956",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"55,011",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"3,455",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,451,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H07,Non-operating income,Financial performance,"1,038",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H08,Total expenditure,Financial performance,"51,186",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H09,Interest and donations,Financial performance,"1,000",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H10,Indirect taxes,Financial performance,150,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H11,Depreciation,Financial performance,"1,778",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,"21,153",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H13,Redundancy and severance,Financial performance,45,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"26,363",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H20,Non-operating expenses,Financial performance,742,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H21,Opening stocks,Financial performance,975,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H22,Closing stocks,Financial performance,"1,081",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H23,Surplus before income tax,Financial performance,"8,876",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H24,Total assets,Financial position,"87,200",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H25,Current assets,Financial position,"43,854",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H26,Fixed tangible assets,Financial position,"9,582",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H27,Additions to fixed assets,Financial position,"2,809",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,"1,223",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H29,Other assets,Financial position,"33,764",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"87,200",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"26,319",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H32,Current liabilities,Financial position,"41,319",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars (millions),H33,Other liabilities,Financial position,"19,562",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars,H34,Total income per employee count,Financial ratios,"210,300",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Dollars,H35,Surplus per employee count,Financial ratios,"31,100",ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H36,Current ratio,Financial ratios,106,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H37,Quick ratio,Financial ratios,104,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H39,Return on equity,Financial ratios,34,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 divisions M and N
+2020,Level 1,MN,"Professional, Scientific, Technical, Administrative and Support Services",Percentage,H41,Liabilities structure,Financial ratios,30,ANZSIC06 divisions M and N
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H01,Total income,Financial performance,"1,691",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"1,653",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,20,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,17,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H07,Non-operating income,Financial performance,1,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H08,Total expenditure,Financial performance,"1,571",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H09,Interest and donations,Financial performance,36,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H10,Indirect taxes,Financial performance,7,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H11,Depreciation,Financial performance,66,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,796,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,656,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H20,Non-operating expenses,Financial performance,9,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H21,Opening stocks,Financial performance,25,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H22,Closing stocks,Financial performance,22,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H23,Surplus before income tax,Financial performance,117,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H24,Total assets,Financial position,"1,653",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H25,Current assets,Financial position,524,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H26,Fixed tangible assets,Financial position,247,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H27,Additions to fixed assets,Financial position,104,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,22,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H29,Other assets,Financial position,881,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H30,Total equity and liabilities,Financial position,"1,653",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,612,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H32,Current liabilities,Financial position,390,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Dollars (millions),H33,Other liabilities,Financial position,650,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Percentage,H36,Current ratio,Financial ratios,134,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Percentage,H37,Quick ratio,Financial ratios,129,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Percentage,H39,Return on equity,Financial ratios,19,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 4,OO213,"Public Order, Safety and Regulatory Services",Percentage,H41,Liabilities structure,Financial ratios,37,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H01,Total income,Financial performance,"1,691",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H04,Sales of goods and services,Financial performance,"1,653",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,20,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,17,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H07,Non-operating income,Financial performance,1,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H08,Total expenditure,Financial performance,"1,571",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H09,Interest and donations,Financial performance,36,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H10,Indirect taxes,Financial performance,7,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H11,Depreciation,Financial performance,66,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,796,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,656,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H20,Non-operating expenses,Financial performance,9,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H21,Opening stocks,Financial performance,25,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H22,Closing stocks,Financial performance,22,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H23,Surplus before income tax,Financial performance,117,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H24,Total assets,Financial position,"1,653",ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H25,Current assets,Financial position,524,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H26,Fixed tangible assets,Financial position,247,ANZSIC06 groups O771 and O772 (excluding class O7711)
+2020,Level 3,OO21,"Public Order, Safety and Regulatory Services",Dollars (millions),H27,Additions to fixed assets,Financial position,104,ANZSIC06 groups O771 and O772 (excluding class O7711)
